@@ -1,0 +1,9 @@
+# 规则名称: HuluJP_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hjholdings.jp
+  - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,streaks.jp
+  - DOMAIN-SUFFIX,yb.uncn.jp

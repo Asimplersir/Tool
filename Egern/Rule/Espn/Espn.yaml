@@ -1,0 +1,15 @@
+# 规则名称: Espn
+# 规则统计: 0
+domain_set:
+- espn.api.edge.bamgrid.com
+- espn.hb.omtrdc.net
+- espndotcom.tt.omtrdc.net
+domain_suffix_set:
+- dtci.co
+- dtci.technology
+- espn.co.uk
+- espn.com
+- espn.net
+- espncdn.com
+- espnqa.com
+- watchespn.com

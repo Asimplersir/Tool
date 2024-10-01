@@ -1,0 +1,11 @@
+# 规则名称: Entrust_No_Resolve
+# 规则统计: 8
+
+payload:
+  - DOMAIN-SUFFIX,affirmtrust.com
+  - DOMAIN-SUFFIX,atos.net
+  - DOMAIN-SUFFIX,certificat2.com
+  - DOMAIN-SUFFIX,entrust.net
+  - DOMAIN-SUFFIX,entrustdatacard.com
+  - DOMAIN-SUFFIX,myatos.net
+  - DOMAIN-SUFFIX,trendmicro.com

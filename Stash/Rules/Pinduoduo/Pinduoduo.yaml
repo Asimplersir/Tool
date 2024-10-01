@@ -1,0 +1,7 @@
+# 规则名称: Pinduoduo
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,yangkeduo.com

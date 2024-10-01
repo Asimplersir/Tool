@@ -1,0 +1,10 @@
+# 规则名称: Nikke
+# 规则统计: 7
+
+HOST-SUFFIX,anticheatexpert.com,Nikke
+HOST-SUFFIX,centauriglobal.com,Nikke
+HOST-SUFFIX,gamepass.com,Nikke
+HOST-SUFFIX,iegcom.com,Nikke
+HOST-SUFFIX,intlgame.com,Nikke
+HOST-SUFFIX,nikke-kr.com,Nikke
+IP-CIDR,43.152.114.31/32,Nikke

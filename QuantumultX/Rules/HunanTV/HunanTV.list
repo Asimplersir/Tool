@@ -1,0 +1,11 @@
+# 规则名称: HunanTV
+# 规则统计: 8
+
+HOST-SUFFIX,hifuntv.com,HunanTV
+HOST-SUFFIX,hitv.com,HunanTV
+HOST-SUFFIX,hunaniptv.com,HunanTV
+HOST-SUFFIX,hunantv.com,HunanTV
+HOST-SUFFIX,imgo.tv,HunanTV
+HOST-SUFFIX,mgtv.com,HunanTV
+HOST-SUFFIX,tazai.com,HunanTV
+USER-AGENT,MGTV*,HunanTV

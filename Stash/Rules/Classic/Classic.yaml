@@ -1,0 +1,8 @@
+# 规则名称: Classic
+# 规则统计: 5
+
+payload:
+  - DOMAIN,asia.battle.net
+  - DOMAIN,europe.battle.net
+  - DOMAIN,useast.battle.net
+  - DOMAIN,uswest.battle.net

@@ -1,0 +1,6 @@
+# 规则名称: OKX
+# 规则统计: 3
+
+HOST-SUFFIX,okex.com,OKX
+HOST-SUFFIX,oklink.com,OKX
+HOST-SUFFIX,okx.com,OKX

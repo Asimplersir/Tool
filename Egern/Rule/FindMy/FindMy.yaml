@@ -1,0 +1,6 @@
+# 规则名称: FindMy
+# 规则统计: 0
+domain_set:
+- fmfmobile.icloud.com
+- fmipmobile.icloud.com
+- statici.icloud.com

@@ -1,0 +1,6 @@
+# 规则名称: Roblox
+# 规则统计: 3
+
+HOST-SUFFIX,rbxcdn.com,Roblox
+HOST-KEYWORD,roblox,Roblox
+USER-AGENT,Roblox*,Roblox

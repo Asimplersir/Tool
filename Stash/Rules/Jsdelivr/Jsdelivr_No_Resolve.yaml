@@ -1,0 +1,7 @@
+# 规则名称: Jsdelivr_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,esm.run
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,jsdelivr.net

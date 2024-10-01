@@ -1,0 +1,8 @@
+# 规则名称: Intercom_No_Resolve
+# 规则统计: 5
+
+payload:
+  - DOMAIN-SUFFIX,intercom.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomassets.com
+  - DOMAIN-SUFFIX,intercomcdn.com

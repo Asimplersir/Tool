@@ -1,0 +1,9 @@
+# 规则名称: Download
+# 规则统计: 6
+
+HOST-SUFFIX,qbittorrent.org,Download
+HOST-KEYWORD,aria2,Download
+HOST-KEYWORD,thunder,Download
+HOST-KEYWORD,xlliveud,Download
+HOST-KEYWORD,xunlei,Download
+HOST-KEYWORD,yunpan,Download

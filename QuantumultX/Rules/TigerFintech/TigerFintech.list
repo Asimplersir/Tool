@@ -1,0 +1,11 @@
+# 规则名称: TigerFintech
+# 规则统计: 8
+
+HOST-SUFFIX,itiger.com,TigerFintech
+HOST-SUFFIX,laohu8.com,TigerFintech
+HOST-SUFFIX,tigerbbs.cn,TigerFintech
+HOST-SUFFIX,tigerbbs.com,TigerFintech
+HOST-SUFFIX,tigerfintech.com,TigerFintech
+HOST-SUFFIX,xiaohu8.com,TigerFintech
+HOST-SUFFIX,zhijianfengyi.cn,TigerFintech
+HOST-SUFFIX,zhijianfengyi.com,TigerFintech

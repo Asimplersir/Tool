@@ -1,0 +1,7 @@
+# 规则名称: Identrust
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,identrust.co.uk
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,identrust.net

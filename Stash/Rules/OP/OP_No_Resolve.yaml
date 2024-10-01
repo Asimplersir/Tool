@@ -1,0 +1,6 @@
+# 规则名称: OP_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,op.gg
+  - DOMAIN-SUFFIX,opgg-static.akamaized.net

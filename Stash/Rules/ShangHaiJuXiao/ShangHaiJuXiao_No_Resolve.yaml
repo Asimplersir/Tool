@@ -1,0 +1,9 @@
+# 规则名称: ShangHaiJuXiao_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,bubuying.net
+  - DOMAIN-SUFFIX,kuaishuru.net
+  - DOMAIN-SUFFIX,mdvdns.com
+  - DOMAIN-SUFFIX,mediav.com
+  - DOMAIN-SUFFIX,mvad.com

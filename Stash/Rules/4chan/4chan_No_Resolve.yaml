@@ -1,0 +1,7 @@
+# 规则名称: 4chan_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,4cdn.org
+  - DOMAIN-SUFFIX,4chan.org
+  - DOMAIN-SUFFIX,4channel.org

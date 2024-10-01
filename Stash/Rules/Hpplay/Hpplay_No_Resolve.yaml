@@ -1,0 +1,9 @@
+# 规则名称: Hpplay_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,hpplay.cn
+  - DOMAIN-SUFFIX,hpplay.com.cn
+  - DOMAIN-SUFFIX,mirrorcast.cn
+  - DOMAIN-SUFFIX,mirrorcast.com.cn
+  - DOMAIN-SUFFIX,mirrorcast.tv

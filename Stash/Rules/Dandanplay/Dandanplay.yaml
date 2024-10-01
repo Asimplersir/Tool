@@ -1,0 +1,7 @@
+# 规则名称: Dandanplay
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,acplay.net
+  - DOMAIN-SUFFIX,dandanplay.com
+  - DOMAIN-SUFFIX,dandanplayer.com

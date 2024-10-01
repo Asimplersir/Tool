@@ -1,0 +1,6 @@
+# 规则名称: AppLovin_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,applvn.com

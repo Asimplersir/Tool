@@ -1,0 +1,8 @@
+# 规则名称: MicrosoftEdge_No_Resolve
+# 规则统计: 5
+
+payload:
+  - DOMAIN,edge.activity.windows.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN,iecvlist.microsoft.com
+  - DOMAIN,msedge.api.cdp.microsoft.com

@@ -1,0 +1,7 @@
+# 规则名称: CETV_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,centv.cn
+  - DOMAIN-SUFFIX,centv.net.cn
+  - DOMAIN-SUFFIX,cetv.cn

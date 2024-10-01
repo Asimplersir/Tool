@@ -1,0 +1,5 @@
+# 规则名称: AppleMail
+# 规则统计: 2
+
+HOST-SUFFIX,mail.icloud.com.cn,AppleMail
+HOST-SUFFIX,mail.me.com,AppleMail

@@ -1,0 +1,7 @@
+# 规则名称: Claude
+# 规则统计: 0
+domain_set:
+- cdn.usefathom.com
+domain_suffix_set:
+- anthropic.com
+- claude.ai

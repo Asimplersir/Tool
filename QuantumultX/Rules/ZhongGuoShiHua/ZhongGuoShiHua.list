@@ -1,0 +1,8 @@
+# 规则名称: ZhongGuoShiHua
+# 规则统计: 5
+
+HOST-SUFFIX,sinopec-usa.com,ZhongGuoShiHua
+HOST-SUFFIX,sinopec.com,ZhongGuoShiHua
+HOST-SUFFIX,sinopecgroup.com,ZhongGuoShiHua
+HOST-SUFFIX,sinopecnews.com.cn,ZhongGuoShiHua
+HOST-SUFFIX,sinopecsales.com,ZhongGuoShiHua

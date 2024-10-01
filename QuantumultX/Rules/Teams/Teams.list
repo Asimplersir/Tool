@@ -1,0 +1,7 @@
+# 规则名称: Teams
+# 规则统计: 4
+
+HOST,teams.events.data.microsoft.com,Teams
+HOST-SUFFIX,teams.cdn.live.net,Teams
+HOST-SUFFIX,teams.live.com,Teams
+HOST-SUFFIX,teams.microsoft.com,Teams

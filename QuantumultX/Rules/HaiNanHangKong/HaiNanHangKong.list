@@ -1,0 +1,9 @@
+# 规则名称: HaiNanHangKong
+# 规则统计: 6
+
+HOST-SUFFIX,10044.cn,HaiNanHangKong
+HOST-SUFFIX,hainanairlines.com,HaiNanHangKong
+HOST-SUFFIX,hnacargo.com,HaiNanHangKong
+HOST-SUFFIX,hnair.com,HaiNanHangKong
+HOST-SUFFIX,hnair.net,HaiNanHangKong
+HOST-KEYWORD,hnagroup,HaiNanHangKong

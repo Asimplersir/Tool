@@ -1,0 +1,6 @@
+# 规则名称: Tmdb_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org

@@ -1,0 +1,16 @@
+# 规则名称: QingCloud_No_Resolve
+# 规则统计: 13
+
+payload:
+  - DOMAIN-SUFFIX,anybox.com
+  - DOMAIN-SUFFIX,frontwize.com
+  - DOMAIN-SUFFIX,kubesphere.com.cn
+  - DOMAIN-SUFFIX,qingcache.com
+  - DOMAIN-SUFFIX,qingcloud.cn
+  - DOMAIN-SUFFIX,qingcloud.com
+  - DOMAIN-SUFFIX,qingcloud.com.cn
+  - DOMAIN-SUFFIX,qingstor.com
+  - DOMAIN-SUFFIX,qingstorage.com
+  - DOMAIN-SUFFIX,quanxiangyun.com
+  - DOMAIN-SUFFIX,routewize.com
+  - DOMAIN-SUFFIX,yunify.com

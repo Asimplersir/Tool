@@ -1,0 +1,7 @@
+# 规则名称: Maocloud_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,maoyun.com
+  - DOMAIN-SUFFIX,maoyuncloud.cn
+  - DOMAIN-SUFFIX,maoyuncloud.com

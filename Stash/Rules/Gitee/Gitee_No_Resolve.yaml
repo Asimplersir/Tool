@@ -1,0 +1,6 @@
+# 规则名称: Gitee_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,gitee.io

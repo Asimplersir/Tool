@@ -1,0 +1,6 @@
+# 规则名称: TencentLoLMobile
+# 规则统计: 0
+domain_suffix_set:
+- riotcdn.net
+- riotgames.com
+- wr.pvp.net

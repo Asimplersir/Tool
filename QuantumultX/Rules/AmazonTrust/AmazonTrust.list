@@ -1,0 +1,6 @@
+# 规则名称: AmazonTrust
+# 规则统计: 3
+
+HOST-SUFFIX,amazontrust.com,AmazonTrust
+HOST-SUFFIX,awstrust.com,AmazonTrust
+HOST-SUFFIX,ss2.us,AmazonTrust

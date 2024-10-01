@@ -1,0 +1,12 @@
+#!name = 微信公众号去广告
+#!desc = 过滤微信公众号广告
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png
+
+[Rule]
+DOMAIN-SUFFIX, wxs.qq.com, REJECT
+
+[Rewrite]
+^https:\/\/mp\.weixin\.qq\.com\/mp\/(cps_product_info|getappmsgad|jsmonitor|masonryfeed|relatedarticle)\? reject-dict
+
+[MitM]
+hostname = mp.weixin.qq.com

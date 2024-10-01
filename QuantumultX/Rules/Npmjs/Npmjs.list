@@ -1,0 +1,6 @@
+# 规则名称: Npmjs
+# 规则统计: 3
+
+HOST-SUFFIX,npm.community,Npmjs
+HOST-SUFFIX,npmjs.com,Npmjs
+HOST-SUFFIX,npmjs.org,Npmjs

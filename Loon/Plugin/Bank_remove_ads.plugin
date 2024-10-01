@@ -1,0 +1,19 @@
+#!name = 银行去广告
+#!desc = 去除部分银行应用的广告
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Bank.png
+
+[Rule]
+DOMAIN, adv.ccb.com, REJECT
+URL-REGEX, ^http:\/\/mps\.95508\.com\/mps\/icppweb\/images\/mps\/migration\/mpspics\/, REJECT
+
+[Rewrite]
+^https:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/advertising\/ reject
+^https:\/\/unionsr\.chinalifeonline\.com\.cn\/gslm\/upload\/ reject-200
+^https:\/\/imcs\.citicbank\.com\/cloud\/([a-fA-F0-9]{32})\.(jpg|png)\?width=(1125|1242|750|563|1400|1863)&height=(2436|2688|1624|1218|3031|4032) reject
+^https:\/\/lban\.spdb\.com\.cn\/mspmk-web-component\/getAdvertisementList\.ah$ reject-dict
+^https:\/\/lban\.spdb\.com\.cn\/mspmk-web-component\/getAdvList\.ah$ reject-dict
+^https:\/\/lban\.spdb\.com\.cn\/mspmk-web-component\/prefetchAdvList\.ah reject-dict
+^https:\/\/s3gw\.cmbimg\.com\/mbappinitads\/ reject
+
+[MitM]
+hostname = static.95508.com, unionsr.chinalifeonline.com.cn, imcs.citicbank.com, lban.spdb.com.cn, s3gw.cmbimg.com

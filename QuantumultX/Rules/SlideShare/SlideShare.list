@@ -1,0 +1,6 @@
+# 规则名称: SlideShare
+# 规则统计: 3
+
+HOST-SUFFIX,slideshare.com,SlideShare
+HOST-SUFFIX,slideshare.net,SlideShare
+HOST-SUFFIX,slidesharecdn.com,SlideShare

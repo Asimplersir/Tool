@@ -1,0 +1,9 @@
+# 规则名称: Snap
+# 规则统计: 6
+
+HOST-SUFFIX,sc-cdn.net,Snap
+HOST-SUFFIX,snap-dev.net,Snap
+HOST-SUFFIX,snap.com,Snap
+HOST-SUFFIX,snapads.com,Snap
+HOST-SUFFIX,snapchat.com,Snap
+HOST-SUFFIX,snapkit.co,Snap

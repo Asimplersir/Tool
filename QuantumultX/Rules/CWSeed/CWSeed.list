@@ -1,0 +1,8 @@
+# 规则名称: CWSeed
+# 规则统计: 5
+
+HOST,cwtv-amd-akamai.akamaized.net,CWSeed
+HOST,edge.cwtv-vod-ext.top.comcast.net,CWSeed
+HOST-SUFFIX,cwseed.com,CWSeed
+HOST-SUFFIX,cwtv.com,CWSeed
+HOST-SUFFIX,thecwvideo.com,CWSeed

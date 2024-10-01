@@ -1,0 +1,11 @@
+# 规则名称: Embl_No_Resolve
+# 规则统计: 8
+
+payload:
+  - DOMAIN-SUFFIX,ebi.ac.uk
+  - DOMAIN-SUFFIX,embl-hamburg.de
+  - DOMAIN-SUFFIX,embl.de
+  - DOMAIN-SUFFIX,embl.fr
+  - DOMAIN-SUFFIX,embl.it
+  - DOMAIN-SUFFIX,embl.org
+  - DOMAIN-SUFFIX,emblstatic.net

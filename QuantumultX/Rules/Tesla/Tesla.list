@@ -1,0 +1,15 @@
+# 规则名称: Tesla
+# 规则统计: 12
+
+HOST-SUFFIX,solarcity.com,Tesla
+HOST-SUFFIX,tesla-cdn.thron.cn,Tesla
+HOST-SUFFIX,tesla-cdn.thron.com,Tesla
+HOST-SUFFIX,tesla.com,Tesla
+HOST-SUFFIX,tesla.com.cn,Tesla
+HOST-SUFFIX,tesla.services,Tesla
+HOST-SUFFIX,teslaenergy.services,Tesla
+HOST-SUFFIX,teslamotors.cn,Tesla
+HOST-SUFFIX,teslamotors.com,Tesla
+HOST-SUFFIX,teslamotors.com.cn,Tesla
+HOST-SUFFIX,teslazta.net,Tesla
+HOST-SUFFIX,ts.la,Tesla

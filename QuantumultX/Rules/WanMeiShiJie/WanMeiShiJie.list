@@ -1,0 +1,14 @@
+# 规则名称: WanMeiShiJie
+# 规则统计: 11
+
+HOST-SUFFIX,counter-strike.cn,WanMeiShiJie
+HOST-SUFFIX,counter-strike.com.cn,WanMeiShiJie
+HOST-SUFFIX,csgo.com.cn,WanMeiShiJie
+HOST-SUFFIX,laohu.com,WanMeiShiJie
+HOST-SUFFIX,pwrdoverseagame.com,WanMeiShiJie
+HOST-SUFFIX,pwrdoverseas.com,WanMeiShiJie
+HOST-SUFFIX,wanmei.com,WanMeiShiJie
+HOST-SUFFIX,wanmei.net,WanMeiShiJie
+HOST-SUFFIX,wmupd.com,WanMeiShiJie
+HOST-SUFFIX,wmupd.com.cn,WanMeiShiJie
+HOST-SUFFIX,wmwm.com,WanMeiShiJie

@@ -1,0 +1,7 @@
+# 规则名称: NYPost_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,nypost.com
+  - DOMAIN-SUFFIX,nypost.help
+  - DOMAIN-SUFFIX,nypostreprints.com

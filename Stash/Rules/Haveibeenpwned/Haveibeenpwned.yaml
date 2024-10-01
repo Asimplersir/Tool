@@ -1,0 +1,6 @@
+# 规则名称: Haveibeenpwned
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,haveibeenpwned.com
+  - DOMAIN-SUFFIX,pwnedpasswords.com

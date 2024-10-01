@@ -1,0 +1,6 @@
+# 规则名称: NaverTV_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,smartmediarep.com

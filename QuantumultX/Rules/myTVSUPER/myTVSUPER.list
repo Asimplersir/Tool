@@ -1,0 +1,10 @@
+# 规则名称: myTVSUPER
+# 规则统计: 7
+
+HOST,mytvsuperlimited.hb.omtrdc.net,myTVSUPER
+HOST,mytvsuperlimited.sc.omtrdc.net,myTVSUPER
+HOST-SUFFIX,mytvsuper.com,myTVSUPER
+HOST-SUFFIX,tvb.com,myTVSUPER
+HOST-KEYWORD,nowtv100,myTVSUPER
+HOST-KEYWORD,rthklive,myTVSUPER
+USER-AGENT,mytv*,myTVSUPER

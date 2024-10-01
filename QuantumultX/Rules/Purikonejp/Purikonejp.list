@@ -1,0 +1,6 @@
+# 规则名称: Purikonejp
+# 规则统计: 3
+
+HOST-SUFFIX,api-priconne-redive.cygames.jp,Purikonejp
+HOST-SUFFIX,omotenashi.cygames.jp,Purikonejp
+HOST-SUFFIX,prd-priconne-redive.akamaized.net,Purikonejp

@@ -1,0 +1,7 @@
+# 规则名称: ChinaNews
+# 规则统计: 4
+
+DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,ecns.cn

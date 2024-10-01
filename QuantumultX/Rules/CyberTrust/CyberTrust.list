@@ -1,0 +1,5 @@
+# 规则名称: CyberTrust
+# 规则统计: 2
+
+HOST-SUFFIX,cybertrust.co.jp,CyberTrust
+HOST-SUFFIX,cybertrust.ne.jp,CyberTrust

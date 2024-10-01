@@ -1,0 +1,6 @@
+# 规则名称: DangDang_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,dangdang.com
+  - DOMAIN-SUFFIX,ddimg.cn

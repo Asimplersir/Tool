@@ -1,0 +1,5 @@
+# 规则名称: MOOMusic
+# 规则统计: 2
+
+USER-AGENT,MOO*,MOOMusic
+USER-AGENT,TencentMidasConnect*,MOOMusic

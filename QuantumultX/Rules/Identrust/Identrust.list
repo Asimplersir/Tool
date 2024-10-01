@@ -1,0 +1,6 @@
+# 规则名称: Identrust
+# 规则统计: 3
+
+HOST-SUFFIX,identrust.co.uk,Identrust
+HOST-SUFFIX,identrust.com,Identrust
+HOST-SUFFIX,identrust.net,Identrust

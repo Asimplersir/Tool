@@ -1,0 +1,7 @@
+# 规则名称: ShiNongZhiKe_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,senseagro.cn
+  - DOMAIN-SUFFIX,senseagro.com
+  - DOMAIN-SUFFIX,senseagro.com.cn

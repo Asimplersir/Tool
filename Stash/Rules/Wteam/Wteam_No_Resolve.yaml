@@ -1,0 +1,5 @@
+# 规则名称: Wteam_No_Resolve
+# 规则统计: 2
+
+payload:
+  - DOMAIN-SUFFIX,ads.wteam.xyz

@@ -1,0 +1,20 @@
+# 规则名称: DiscoveryPlus
+# 规则统计: 17
+
+HOST,discovery-us.conax.cloud,DiscoveryPlus
+HOST,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io,DiscoveryPlus
+HOST,dplus-northamerica.media-edge.prod-vod.h264.io,DiscoveryPlus
+HOST-SUFFIX,disco-api.com,DiscoveryPlus
+HOST-SUFFIX,discovery.com,DiscoveryPlus
+HOST-SUFFIX,discoveryplus.co.uk,DiscoveryPlus
+HOST-SUFFIX,discoveryplus.com,DiscoveryPlus
+HOST-SUFFIX,discoveryplus.in,DiscoveryPlus
+HOST-SUFFIX,dnitv.com,DiscoveryPlus
+HOST-SUFFIX,fwmrm.net,DiscoveryPlus
+HOST-SUFFIX,getblueshift.com,DiscoveryPlus
+HOST-SUFFIX,litix.io,DiscoveryPlus
+HOST-SUFFIX,mobile-collector.newrelic.com,DiscoveryPlus
+HOST-SUFFIX,uplynk.com,DiscoveryPlus
+HOST-KEYWORD,discovery.uplynk.com,DiscoveryPlus
+USER-AGENT,DPlus*,DiscoveryPlus
+USER-AGENT,discovery+*,DiscoveryPlus

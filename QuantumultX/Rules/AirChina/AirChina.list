@@ -1,0 +1,5 @@
+# 规则名称: AirChina
+# 规则统计: 2
+
+HOST-SUFFIX,airchina.com.cn,AirChina
+HOST-SUFFIX,airchinacargo.com,AirChina

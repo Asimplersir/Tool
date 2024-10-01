@@ -1,0 +1,16 @@
+# 规则名称: IBM_No_Resolve
+# 规则统计: 13
+
+payload:
+  - DOMAIN-SUFFIX,appdomain.cloud
+  - DOMAIN-SUFFIX,bluemix.com
+  - DOMAIN-SUFFIX,bluemix.net
+  - DOMAIN-SUFFIX,ibm
+  - DOMAIN-SUFFIX,ibm.com
+  - DOMAIN-SUFFIX,ibm.eu
+  - DOMAIN-SUFFIX,ibm.net
+  - DOMAIN-SUFFIX,ibm.us
+  - DOMAIN-SUFFIX,s-bluemix.net
+  - DOMAIN-SUFFIX,s81c.com
+  - DOMAIN-SUFFIX,weather.com
+  - DOMAIN-SUFFIX,weatherchannel

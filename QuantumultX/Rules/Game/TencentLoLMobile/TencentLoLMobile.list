@@ -1,0 +1,6 @@
+# 规则名称: TencentLoLMobile
+# 规则统计: 3
+
+HOST-SUFFIX,riotcdn.net,TencentLoLMobile
+HOST-SUFFIX,riotgames.com,TencentLoLMobile
+HOST-SUFFIX,wr.pvp.net,TencentLoLMobile

@@ -1,0 +1,15 @@
+#!name = TestFlight地区解锁
+#!desc = 解除TestFlight的区域限制，支持tvOS。
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/TestFlight.png
+
+[General]
+skip-proxy = iosapps.itunes.apple.com
+
+[Rule]
+DOMAIN, testflight.apple.com, PROXY
+
+[Rewrite]
+^https?:\/\/testflight\.apple\.com\/v\d\/accounts\/.+?\/install$ request-body-replace-regex "storefrontId"\x20:\x20"\d{6}-\d{2},\d{2}", "storefrontId":"143441-19,29",
+
+[MitM]
+hostname = testflight.apple.com

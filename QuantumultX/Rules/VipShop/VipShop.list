@@ -1,0 +1,7 @@
+# 规则名称: VipShop
+# 规则统计: 4
+
+HOST-SUFFIX,appsimg.com,VipShop
+HOST-SUFFIX,appvipshop.com,VipShop
+HOST-SUFFIX,vip.com,VipShop
+HOST-SUFFIX,vipstatic.com,VipShop

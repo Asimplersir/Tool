@@ -1,0 +1,6 @@
+# 规则名称: Emojipedia
+# 规则统计: 3
+
+HOST-SUFFIX,emojipedia.org,Emojipedia
+HOST-SUFFIX,worldemojiawards.com,Emojipedia
+HOST-SUFFIX,worldemojiday.com,Emojipedia

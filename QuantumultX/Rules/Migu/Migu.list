@@ -1,0 +1,8 @@
+# 规则名称: Migu
+# 规则统计: 5
+
+HOST-SUFFIX,cmvideo.cn,Migu
+HOST-SUFFIX,migu.cn,Migu
+HOST-SUFFIX,miguvideo.com,Migu
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,Migu
+USER-AGENT,MiguVideo*,Migu

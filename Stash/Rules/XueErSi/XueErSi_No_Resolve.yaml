@@ -1,0 +1,7 @@
+# 规则名称: XueErSi_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,speiyou.com
+  - DOMAIN-SUFFIX,xesimg.com
+  - DOMAIN-SUFFIX,xueersi.com

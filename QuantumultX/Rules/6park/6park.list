@@ -1,0 +1,7 @@
+# 规则名称: 6park
+# 规则统计: 4
+
+HOST-SUFFIX,6park.com,6park
+HOST-SUFFIX,6parkbbs.com,6park
+HOST-SUFFIX,6parknews.com,6park
+HOST-SUFFIX,cool18.com,6park

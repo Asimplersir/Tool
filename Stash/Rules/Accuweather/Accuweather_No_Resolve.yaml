@@ -1,0 +1,5 @@
+# 规则名称: Accuweather_No_Resolve
+# 规则统计: 2
+
+payload:
+  - DOMAIN-SUFFIX,accuweather.com

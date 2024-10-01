@@ -1,0 +1,7 @@
+# 规则名称: SoundCloud_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,p-cdn.us
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com

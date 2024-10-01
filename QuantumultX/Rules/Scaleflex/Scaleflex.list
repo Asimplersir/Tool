@@ -1,0 +1,6 @@
+# 规则名称: Scaleflex
+# 规则统计: 3
+
+HOST-SUFFIX,cloudimage.io,Scaleflex
+HOST-SUFFIX,cloudimg.io,Scaleflex
+HOST-SUFFIX,scaleflex.com,Scaleflex

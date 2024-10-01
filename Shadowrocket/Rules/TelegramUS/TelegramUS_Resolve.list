@@ -1,0 +1,5 @@
+# 规则名称: TelegramUS_Resolve
+# 规则统计: 2
+
+IP-CIDR,2001:b28:f23d::/48
+IP-CIDR,91.108.12.0/22

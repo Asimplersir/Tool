@@ -1,0 +1,11 @@
+# 规则名称: DynDNS
+# 规则统计: 8
+
+HOST-SUFFIX,blogdns.org,DynDNS
+HOST-SUFFIX,dyn.com,DynDNS
+HOST-SUFFIX,dyndns-ip.com,DynDNS
+HOST-SUFFIX,dyndns-pics.com,DynDNS
+HOST-SUFFIX,dyndns.org,DynDNS
+HOST-SUFFIX,from-pr.com,DynDNS
+HOST-SUFFIX,from-sd.com,DynDNS
+HOST-SUFFIX,is-a-hunter.com,DynDNS

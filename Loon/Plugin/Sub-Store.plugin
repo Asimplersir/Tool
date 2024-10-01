@@ -1,0 +1,15 @@
+#!name = Sub-Store
+#!desc = 高级订阅管理工具，使用前请在本插件的详情页面为[PROXY]项分配代理策略。
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Sub-Store.png
+
+[Rule]
+DOMAIN, sub-store.vercel.app, PROXY
+DOMAIN, ip-api.com, PROXY
+
+[Script]
+http-request ^https?:\/\/sub\.store\/((download)|api\/(preview|sync|(utils\/node-info))) script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/sub-store-1.min.js, requires-body = true, timeout = 120, tag = Sub-Store Core
+http-request ^https?:\/\/sub\.store script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/sub-store-0.min.js, requires-body = true, timeout = 120, tag = Sub-Store Simple
+cron "0 0 1 ? * ?" script-path = https://gitlab.com/sub-store/Sub-Store/-/releases/permalink/latest/downloads/cron-sync-artifacts.min.js, tag = Sub-Store Sync
+
+[MitM]
+hostname = sub.store

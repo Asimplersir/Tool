@@ -1,0 +1,9 @@
+# 规则名称: TIDAL
+# 规则统计: 6
+
+HOST-SUFFIX,tidal-cms.s3.amazonaws.com,TIDAL
+HOST-SUFFIX,tidal.com,TIDAL
+HOST-SUFFIX,tidalhifi.com,TIDAL
+HOST-SUFFIX,wimpmusic.com,TIDAL
+USER-AGENT,TIDAL*,TIDAL
+USER-AGENT,TIDAL*dia,TIDAL

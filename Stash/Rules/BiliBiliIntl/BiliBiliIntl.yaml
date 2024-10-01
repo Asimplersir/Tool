@@ -1,0 +1,6 @@
+# 规则名称: BiliBiliIntl
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,bilibili.tv
+  - PROCESS-NAME,com.bstar.intl

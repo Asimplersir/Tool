@@ -1,0 +1,6 @@
+# 规则名称: AppLovin
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,applvn.com

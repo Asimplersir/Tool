@@ -1,0 +1,5 @@
+# 规则名称: Peacock
+# 规则统计: 2
+
+HOST-SUFFIX,peacocktv.com,Peacock
+USER-AGENT,PeacockMobile*,Peacock

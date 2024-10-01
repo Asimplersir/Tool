@@ -1,0 +1,6 @@
+# 规则名称: TapTap_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,tap.io
+  - DOMAIN-SUFFIX,taptap.tw

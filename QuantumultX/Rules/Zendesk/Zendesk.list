@@ -1,0 +1,9 @@
+# 规则名称: Zendesk
+# 规则统计: 6
+
+HOST-SUFFIX,outbound.io,Zendesk
+HOST-SUFFIX,zdassets.com,Zendesk
+HOST-SUFFIX,zdusercontent.com,Zendesk
+HOST-SUFFIX,zendesk.com,Zendesk
+HOST-SUFFIX,zndsk.com,Zendesk
+HOST-SUFFIX,zopim.com,Zendesk

@@ -1,0 +1,5 @@
+# 规则名称: zhanqi
+# 规则统计: 2
+
+payload:
+  - DOMAIN-SUFFIX,zhanqi.tv

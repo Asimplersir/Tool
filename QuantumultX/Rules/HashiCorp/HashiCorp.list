@@ -1,0 +1,11 @@
+# 规则名称: HashiCorp
+# 规则统计: 8
+
+HOST-SUFFIX,consul.io,HashiCorp
+HOST-SUFFIX,hashicorp.com,HashiCorp
+HOST-SUFFIX,nomadproject.io,HashiCorp
+HOST-SUFFIX,packer.io,HashiCorp
+HOST-SUFFIX,terraform.io,HashiCorp
+HOST-SUFFIX,vagrantcloud.com,HashiCorp
+HOST-SUFFIX,vagrantup.com,HashiCorp
+HOST-SUFFIX,vaultproject.io,HashiCorp

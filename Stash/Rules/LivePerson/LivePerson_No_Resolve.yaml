@@ -1,0 +1,7 @@
+# 规则名称: LivePerson_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,liveperson.com
+  - DOMAIN-SUFFIX,liveperson.net
+  - DOMAIN-SUFFIX,lpsnmedia.net

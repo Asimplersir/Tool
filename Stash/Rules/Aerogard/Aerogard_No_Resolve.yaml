@@ -1,0 +1,7 @@
+# 规则名称: Aerogard_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,aerogard.com.au
+  - DOMAIN-SUFFIX,aerogard.com.cn
+  - DOMAIN-SUFFIX,aerogardcn.com

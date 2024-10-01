@@ -1,0 +1,9 @@
+# 规则名称: XiaoYuanKeJi
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,10010mx.com
+  - DOMAIN-SUFFIX,5gimos.com
+  - DOMAIN-SUFFIX,bizport.cn
+  - DOMAIN-SUFFIX,mfexcel.com
+  - DOMAIN-SUFFIX,microfountain.com

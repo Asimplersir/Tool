@@ -1,0 +1,7 @@
+# 规则名称: OKX
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okx.com

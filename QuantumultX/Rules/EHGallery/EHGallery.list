@@ -1,0 +1,10 @@
+# 规则名称: EHGallery
+# 规则统计: 7
+
+HOST-SUFFIX,e-hentai.org,EHGallery
+HOST-SUFFIX,ehgt.org,EHGallery
+HOST-SUFFIX,ehwiki.org,EHGallery
+HOST-SUFFIX,exhentai.org,EHGallery
+HOST-SUFFIX,hath.network,EHGallery
+HOST-SUFFIX,hentaiverse.org,EHGallery
+IP-CIDR,178.175.128.0/21,EHGallery

@@ -1,0 +1,10 @@
+# 规则名称: VK
+# 规则统计: 7
+
+HOST-SUFFIX,mvk.com,VK
+HOST-SUFFIX,userapi.com,VK
+HOST-SUFFIX,vk-cdn.me,VK
+HOST-SUFFIX,vk-cdn.net,VK
+HOST-SUFFIX,vk-portal.net,VK
+HOST-SUFFIX,vk.cc,VK
+HOST-SUFFIX,vk.com,VK

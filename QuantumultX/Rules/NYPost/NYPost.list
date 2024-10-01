@@ -1,0 +1,6 @@
+# 规则名称: NYPost
+# 规则统计: 3
+
+HOST-SUFFIX,nypost.com,NYPost
+HOST-SUFFIX,nypost.help,NYPost
+HOST-SUFFIX,nypostreprints.com,NYPost

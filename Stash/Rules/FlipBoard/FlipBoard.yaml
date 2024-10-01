@@ -1,0 +1,6 @@
+# 规则名称: FlipBoard
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,flipboard.com
+  - DOMAIN-SUFFIX,flipchina.cn

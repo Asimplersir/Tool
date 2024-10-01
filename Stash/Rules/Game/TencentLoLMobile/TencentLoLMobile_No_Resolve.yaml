@@ -1,0 +1,7 @@
+# 规则名称: TencentLoLMobile_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,wr.pvp.net

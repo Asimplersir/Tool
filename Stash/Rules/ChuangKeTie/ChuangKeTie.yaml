@@ -1,0 +1,9 @@
+# 规则名称: ChuangKeTie
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,byfan.cn
+  - DOMAIN-SUFFIX,chuangkit.com
+  - DOMAIN-SUFFIX,ckt.cn
+  - DOMAIN-SUFFIX,huoziyin.cn
+  - DOMAIN-SUFFIX,huoziyin.com

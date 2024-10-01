@@ -1,0 +1,9 @@
+# 规则名称: JianShu_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,baijii.com
+  - DOMAIN-SUFFIX,jianshu.com
+  - DOMAIN-SUFFIX,jianshu.io
+  - DOMAIN-SUFFIX,jianshuapi.com
+  - DOMAIN-SUFFIX,shengmingfa.com

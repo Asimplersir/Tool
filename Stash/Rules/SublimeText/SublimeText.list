@@ -1,0 +1,7 @@
+# 规则名称: SublimeText
+# 规则统计: 4
+
+DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN-SUFFIX,sublimehq.com
+DOMAIN-SUFFIX,sublimemerge.com
+DOMAIN-SUFFIX,sublimetext.com

@@ -1,0 +1,6 @@
+# 规则名称: Jquery
+# 规则统计: 3
+
+HOST-SUFFIX,jquery.com,Jquery
+HOST-SUFFIX,jquerymobile.com,Jquery
+HOST-SUFFIX,jqueryui.com,Jquery

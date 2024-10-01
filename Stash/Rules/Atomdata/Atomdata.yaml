@@ -1,0 +1,7 @@
+# 规则名称: Atomdata
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,analytics-data.io
+  - DOMAIN-SUFFIX,atom-data.io
+  - DOMAIN-SUFFIX,ironbeast.io

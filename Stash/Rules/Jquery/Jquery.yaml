@@ -1,0 +1,7 @@
+# 规则名称: Jquery
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,jquerymobile.com
+  - DOMAIN-SUFFIX,jqueryui.com

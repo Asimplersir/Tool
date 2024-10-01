@@ -1,0 +1,7 @@
+# 规则名称: PlayStation
+# 规则统计: 4
+
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com

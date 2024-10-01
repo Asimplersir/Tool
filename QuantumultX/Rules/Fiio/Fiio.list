@@ -1,0 +1,7 @@
+# 规则名称: Fiio
+# 规则统计: 4
+
+HOST-SUFFIX,fiio.cn,Fiio
+HOST-SUFFIX,fiio.com,Fiio
+HOST-SUFFIX,fiio.com.cn,Fiio
+HOST-SUFFIX,fiio.net,Fiio

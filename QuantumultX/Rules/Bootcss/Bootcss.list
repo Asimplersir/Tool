@@ -1,0 +1,6 @@
+# 规则名称: Bootcss
+# 规则统计: 3
+
+HOST-SUFFIX,bootcdn.cn,Bootcss
+HOST-SUFFIX,bootcss.com,Bootcss
+HOST-SUFFIX,phpcomposer.com,Bootcss

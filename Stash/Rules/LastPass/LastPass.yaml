@@ -1,0 +1,6 @@
+# 规则名称: LastPass
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,lastpass.com
+  - PROCESS-NAME,LastPass

@@ -1,0 +1,2 @@
+[MITM]
+hostname = %APPEND% www.amazon.com

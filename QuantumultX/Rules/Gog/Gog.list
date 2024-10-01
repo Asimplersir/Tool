@@ -1,0 +1,7 @@
+# 规则名称: Gog
+# 规则统计: 4
+
+HOST,gog.salesmanago.com,Gog
+HOST-SUFFIX,gog-statics.com,Gog
+HOST-SUFFIX,gog.com,Gog
+HOST-SUFFIX,gog.qtlglb.com,Gog

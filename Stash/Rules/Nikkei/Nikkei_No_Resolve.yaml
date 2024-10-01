@@ -1,0 +1,7 @@
+# 规则名称: Nikkei_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,nikkei.co.jp
+  - DOMAIN-SUFFIX,nikkei.com
+  - DOMAIN-SUFFIX,nikkei.jp

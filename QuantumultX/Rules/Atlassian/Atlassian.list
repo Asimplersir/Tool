@@ -1,0 +1,8 @@
+# 规则名称: Atlassian
+# 规则统计: 5
+
+HOST-SUFFIX,atlassian.com,Atlassian
+HOST-SUFFIX,bitbucket.org,Atlassian
+HOST-SUFFIX,statuspage.io,Atlassian
+HOST-SUFFIX,trello.com,Atlassian
+HOST-SUFFIX,trellocdn.com,Atlassian

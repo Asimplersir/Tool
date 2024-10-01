@@ -1,0 +1,7 @@
+# 规则名称: IMDB
+# 规则统计: 0
+domain_suffix_set:
+- boxofficemojo.com
+- imdb.com
+- imdb.to
+- media-imdb.com

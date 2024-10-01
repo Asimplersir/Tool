@@ -1,0 +1,11 @@
+# 规则名称: BesTV_No_Resolve
+# 规则统计: 8
+
+payload:
+  - DOMAIN-SUFFIX,bbtv.cn
+  - DOMAIN-SUFFIX,bestv.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.cn
+  - DOMAIN-SUFFIX,bestvcdn.com
+  - DOMAIN-SUFFIX,bestvcdn.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.net
+  - DOMAIN-SUFFIX,smgbb.cn

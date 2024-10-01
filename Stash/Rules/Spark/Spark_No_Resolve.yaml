@@ -1,0 +1,9 @@
+# 规则名称: Spark_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,hockeyapp.net
+  - DOMAIN-SUFFIX,readdle.com
+  - DOMAIN-SUFFIX,smartmailcloud.com

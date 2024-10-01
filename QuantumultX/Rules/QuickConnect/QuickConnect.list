@@ -1,0 +1,9 @@
+# 规则名称: QuickConnect
+# 规则统计: 6
+
+HOST,account.synology.com,QuickConnect
+HOST,global.quickconnect.cn,QuickConnect
+HOST,sns.synology.com,QuickConnect
+HOST-SUFFIX,download.synology.com,QuickConnect
+HOST-SUFFIX,quickconnect.com,QuickConnect
+HOST-SUFFIX,quickconnect.to,QuickConnect

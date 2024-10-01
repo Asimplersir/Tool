@@ -1,0 +1,7 @@
+# 规则名称: Agora
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,agora.io
+  - DOMAIN-SUFFIX,agoraio.cn
+  - DOMAIN-SUFFIX,agoralab.co

@@ -1,0 +1,7 @@
+# 规则名称: SourceForge
+# 规则统计: 4
+
+HOST-SUFFIX,fsdn.com,SourceForge
+HOST-SUFFIX,sf.net,SourceForge
+HOST-SUFFIX,sourceforge.com,SourceForge
+HOST-SUFFIX,sourceforge.net,SourceForge

@@ -1,0 +1,11 @@
+# 规则名称: Bahamut
+# 规则统计: 8
+
+HOST,bahamut.akamaized.net,Bahamut
+HOST-SUFFIX,bahamut.com.tw,Bahamut
+HOST-SUFFIX,digicert.com,Bahamut
+HOST-SUFFIX,gamer.com.tw,Bahamut
+HOST-SUFFIX,gvt1.com,Bahamut
+HOST-SUFFIX,hinet.net,Bahamut
+HOST-SUFFIX,viblast.com,Bahamut
+USER-AGENT,Anime*,Bahamut

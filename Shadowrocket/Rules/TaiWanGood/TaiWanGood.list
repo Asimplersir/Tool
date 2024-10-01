@@ -1,0 +1,6 @@
+# 规则名称: TaiWanGood
+# 规则统计: 3
+
+DOMAIN,hamifans.emome.net
+DOMAIN-SUFFIX,skyking.com.tw
+USER-AGENT,TaiwanGood*

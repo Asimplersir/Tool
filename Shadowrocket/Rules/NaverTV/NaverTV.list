@@ -1,0 +1,6 @@
+# 规则名称: NaverTV
+# 规则统计: 3
+
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,smartmediarep.com
+USER-AGENT,Naver%20TV*

@@ -1,0 +1,8 @@
+# 规则名称: AllInOne
+# 规则统计: 5
+
+HOST,appcloud.zhihu.com,AdvertisingScript
+HOST,appcloud2.in.zhihu.com,AdvertisingScript
+HOST,crash2.zhihu.com,AdvertisingScript
+HOST,mqtt.zhihu.com,AdvertisingScript
+HOST,sugar.zhihu.com,AdvertisingScript

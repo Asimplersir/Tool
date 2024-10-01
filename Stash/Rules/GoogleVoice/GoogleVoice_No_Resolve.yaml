@@ -1,0 +1,5 @@
+# 规则名称: GoogleVoice_No_Resolve
+# 规则统计: 2
+
+payload:
+  - DOMAIN,lens.l.google.com

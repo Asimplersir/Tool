@@ -1,0 +1,6 @@
+# 规则名称: FitnessPlus
+# 规则统计: 3
+
+payload:
+  - DOMAIN,amp-api.fitness.apple.com
+  - DOMAIN,hls-svod.itunes.apple.com

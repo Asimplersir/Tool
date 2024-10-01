@@ -1,0 +1,7 @@
+# 规则名称: YouZan_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,youzan.com
+  - DOMAIN-SUFFIX,youzanyun.com
+  - DOMAIN-SUFFIX,yzcdn.cn

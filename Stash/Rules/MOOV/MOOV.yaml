@@ -1,0 +1,6 @@
+# 规则名称: MOOV
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,moov.hk
+  - DOMAIN-SUFFIX,mtg.now.com

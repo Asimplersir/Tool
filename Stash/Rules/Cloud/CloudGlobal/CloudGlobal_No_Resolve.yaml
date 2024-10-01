@@ -1,0 +1,23 @@
+# 规则名称: CloudGlobal_No_Resolve
+# 规则统计: 20
+
+payload:
+  - DOMAIN-SUFFIX,1fhjlv1.oloadcdn.net
+  - DOMAIN-SUFFIX,a.o333o.com
+  - DOMAIN-SUFFIX,cdn.vidarequre.com
+  - DOMAIN-SUFFIX,deliver.vkcdnservice.com
+  - DOMAIN-SUFFIX,dog1.verystream.com
+  - DOMAIN-SUFFIX,freepornhdonlinegay.com
+  - DOMAIN-SUFFIX,gounlimited.to
+  - DOMAIN-SUFFIX,megapornfreehd.com
+  - DOMAIN-SUFFIX,openload.co
+  - DOMAIN-SUFFIX,playercdn.net
+  - DOMAIN-SUFFIX,propvideo.net
+  - DOMAIN-SUFFIX,rapidvideo.com
+  - DOMAIN-SUFFIX,signal.netu.tv
+  - DOMAIN-SUFFIX,speedcurve.com
+  - DOMAIN-SUFFIX,streamango.com
+  - DOMAIN-SUFFIX,streamcherry.com
+  - DOMAIN-SUFFIX,thumb.oloadcdn.net
+  - DOMAIN-SUFFIX,vidcpm.com
+  - DOMAIN-SUFFIX,vkcache.com

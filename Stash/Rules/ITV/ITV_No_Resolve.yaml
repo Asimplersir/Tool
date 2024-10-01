@@ -1,0 +1,7 @@
+# 规则名称: ITV_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN,itvpnpmobile-a.akamaihd.net
+  - DOMAIN-SUFFIX,itv.com
+  - DOMAIN-SUFFIX,itvstatic.com

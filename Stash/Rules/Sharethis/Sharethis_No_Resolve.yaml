@@ -1,0 +1,5 @@
+# 规则名称: Sharethis_No_Resolve
+# 规则统计: 2
+
+payload:
+  - DOMAIN-SUFFIX,sharethis.com

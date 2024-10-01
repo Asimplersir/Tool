@@ -1,0 +1,5 @@
+# 规则名称: 4Paradigm
+# 规则统计: 2
+
+payload:
+  - DOMAIN-SUFFIX,4paradigm.com

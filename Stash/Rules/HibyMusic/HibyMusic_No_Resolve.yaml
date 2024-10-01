@@ -1,0 +1,7 @@
+# 规则名称: HibyMusic_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,hiby.cd
+  - DOMAIN-SUFFIX,hiby.com
+  - DOMAIN-SUFFIX,hibymusic.com

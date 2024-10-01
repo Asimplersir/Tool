@@ -1,0 +1,7 @@
+# 规则名称: Disqus_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,disqus.com
+  - DOMAIN-SUFFIX,disquscdn.com
+  - DOMAIN-SUFFIX,disqusservice.com

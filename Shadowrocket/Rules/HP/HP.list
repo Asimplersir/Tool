@@ -1,0 +1,7 @@
+# 规则名称: HP
+# 规则统计: 4
+
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpstore-china.com
+DOMAIN-SUFFIX,hpstore.com
+DOMAIN-SUFFIX,hpstore.corpmerchandise.com

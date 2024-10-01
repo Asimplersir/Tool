@@ -1,0 +1,7 @@
+# 规则名称: XiamiMusic
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,xiami.com
+  - DOMAIN-SUFFIX,xiami.fm
+  - DOMAIN-SUFFIX,xiami.net

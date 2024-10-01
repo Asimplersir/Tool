@@ -1,0 +1,6 @@
+# 规则名称: Anthropic
+# 规则统计: 3
+
+HOST,servd-anthropic-website.b-cdn.net,Anthropic
+HOST-SUFFIX,anthropic.com,Anthropic
+HOST-SUFFIX,claude.ai,Anthropic

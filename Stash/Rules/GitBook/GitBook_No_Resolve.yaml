@@ -1,0 +1,7 @@
+# 规则名称: GitBook_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitbook.zendesk.com

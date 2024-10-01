@@ -1,0 +1,11 @@
+# 规则名称: Limelight
+# 规则统计: 8
+
+HOST-SUFFIX,delvenetworks.com,Limelight
+HOST-SUFFIX,limelight.com,Limelight
+HOST-SUFFIX,lldns.net,Limelight
+HOST-SUFFIX,llnw-trials.com,Limelight
+HOST-SUFFIX,llnw.com,Limelight
+HOST-SUFFIX,llnw.net,Limelight
+HOST-SUFFIX,llnwd.net,Limelight
+HOST-SUFFIX,llnwi.net,Limelight

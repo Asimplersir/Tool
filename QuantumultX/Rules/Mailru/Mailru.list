@@ -1,0 +1,6 @@
+# 规则名称: Mailru
+# 规则统计: 3
+
+HOST-SUFFIX,imgsmail.ru,Mailru
+HOST-SUFFIX,mail.ru,Mailru
+HOST-SUFFIX,mycdn.me,Mailru

@@ -1,0 +1,6 @@
+# 规则名称: Addthis
+# 规则统计: 3
+
+HOST-SUFFIX,addthis.com,Addthis
+HOST-SUFFIX,addthiscdn.com,Addthis
+HOST-SUFFIX,addthisedge.com,Addthis

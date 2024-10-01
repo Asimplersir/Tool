@@ -1,0 +1,8 @@
+# 规则名称: AMP
+# 规则统计: 5
+
+HOST,amp.akamaized.net,AMP
+HOST-SUFFIX,amp.dev,AMP
+HOST-SUFFIX,ampproject.com,AMP
+HOST-SUFFIX,ampproject.net,AMP
+HOST-SUFFIX,ampproject.org,AMP

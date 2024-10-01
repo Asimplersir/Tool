@@ -1,0 +1,11 @@
+# 规则名称: BritboxUK
+# 规则统计: 8
+
+HOST,itvpnp.live.ott.irdeto.com,BritboxUK
+HOST,itvpnp.stage.ott.irdeto.com,BritboxUK
+HOST-SUFFIX,bb-static.com,BritboxUK
+HOST-SUFFIX,bbc.co.uk,BritboxUK
+HOST-SUFFIX,britbox.co.uk,BritboxUK
+HOST-SUFFIX,britbox.com,BritboxUK
+HOST-SUFFIX,itv.com,BritboxUK
+HOST-SUFFIX,massive-itv.com,BritboxUK

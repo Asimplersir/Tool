@@ -1,0 +1,9 @@
+# 规则名称: ATTWatchTV
+# 规则统计: 6
+
+HOST-SUFFIX,att.tv,ATTWatchTV
+HOST-SUFFIX,atttvnow.com,ATTWatchTV
+HOST-SUFFIX,attwatchtv.com,ATTWatchTV
+HOST-SUFFIX,directv.com,ATTWatchTV
+HOST-SUFFIX,dtvce.com,ATTWatchTV
+HOST-SUFFIX,nettyinternet.com,ATTWatchTV

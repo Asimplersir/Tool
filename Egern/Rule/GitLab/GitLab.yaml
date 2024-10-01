@@ -1,0 +1,9 @@
+# 规则名称: GitLab
+# 规则统计: 0
+domain_suffix_set:
+- gitlab-assets.oss-cn-hongkong.aliyuncs.com
+- gitlab-static.net
+- gitlab.com
+- gitlab.net
+- gitter-static.net
+- gitter.im

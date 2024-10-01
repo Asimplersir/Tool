@@ -1,0 +1,6 @@
+# 规则名称: KuKeMusic
+# 规则统计: 3
+
+HOST-SUFFIX,kuke.com,KuKeMusic
+HOST-SUFFIX,kukey.com.cn,KuKeMusic
+HOST-SUFFIX,naxos.cn,KuKeMusic

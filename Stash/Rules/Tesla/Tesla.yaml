@@ -1,0 +1,16 @@
+# 规则名称: Tesla
+# 规则统计: 13
+
+payload:
+  - DOMAIN-SUFFIX,solarcity.com
+  - DOMAIN-SUFFIX,tesla-cdn.thron.cn
+  - DOMAIN-SUFFIX,tesla-cdn.thron.com
+  - DOMAIN-SUFFIX,tesla.com
+  - DOMAIN-SUFFIX,tesla.com.cn
+  - DOMAIN-SUFFIX,tesla.services
+  - DOMAIN-SUFFIX,teslaenergy.services
+  - DOMAIN-SUFFIX,teslamotors.cn
+  - DOMAIN-SUFFIX,teslamotors.com
+  - DOMAIN-SUFFIX,teslamotors.com.cn
+  - DOMAIN-SUFFIX,teslazta.net
+  - DOMAIN-SUFFIX,ts.la

@@ -1,0 +1,8 @@
+# 规则名称: XiamiMusic
+# 规则统计: 5
+
+HOST-SUFFIX,xiami.com,XiamiMusic
+HOST-SUFFIX,xiami.fm,XiamiMusic
+HOST-SUFFIX,xiami.net,XiamiMusic
+USER-AGENT,walkman*,XiamiMusic
+USER-AGENT,xiami*,XiamiMusic

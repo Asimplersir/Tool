@@ -1,0 +1,8 @@
+# 规则名称: Acer
+# 规则统计: 5
+
+HOST-SUFFIX,acer-group.com,Acer
+HOST-SUFFIX,acer.com,Acer
+HOST-SUFFIX,acer.com.cn,Acer
+HOST-SUFFIX,founderpc.cn,Acer
+HOST-SUFFIX,founderpc.com,Acer

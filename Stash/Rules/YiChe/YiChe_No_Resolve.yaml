@@ -1,0 +1,9 @@
+# 规则名称: YiChe_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,bitauto.com
+  - DOMAIN-SUFFIX,bitautoimg.com
+  - DOMAIN-SUFFIX,cheyisou.com
+  - DOMAIN-SUFFIX,yccdn.com
+  - DOMAIN-SUFFIX,yiche.com

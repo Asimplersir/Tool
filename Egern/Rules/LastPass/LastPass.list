@@ -1,0 +1,6 @@
+# 规则名称: LastPass
+# 规则统计: 3
+
+DOMAIN-SUFFIX,lastpass.com
+USER-AGENT,LastPass*
+PROCESS-NAME,LastPass

@@ -1,0 +1,6 @@
+# 规则名称: iTalkBB
+# 规则统计: 3
+
+HOST-SUFFIX,api.tv.colnv.com,iTalkBB
+HOST-SUFFIX,italkbb.com,iTalkBB
+HOST-SUFFIX,italkbbtv.com,iTalkBB

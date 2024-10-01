@@ -1,0 +1,7 @@
+# 规则名称: MicrosoftEdge
+# 规则统计: 4
+
+HOST,edge.activity.windows.com,MicrosoftEdge
+HOST,edge.microsoft.com,MicrosoftEdge
+HOST,iecvlist.microsoft.com,MicrosoftEdge
+HOST,msedge.api.cdp.microsoft.com,MicrosoftEdge

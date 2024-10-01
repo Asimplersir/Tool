@@ -1,0 +1,6 @@
+# 规则名称: Jfrog
+# 规则统计: 3
+
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org

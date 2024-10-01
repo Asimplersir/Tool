@@ -1,0 +1,6 @@
+# 规则名称: Pinduoduo
+# 规则统计: 3
+
+HOST-SUFFIX,pddpic.com,Pinduoduo
+HOST-SUFFIX,pinduoduo.com,Pinduoduo
+HOST-SUFFIX,yangkeduo.com,Pinduoduo

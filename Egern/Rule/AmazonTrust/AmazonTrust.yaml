@@ -1,0 +1,6 @@
+# 规则名称: AmazonTrust
+# 规则统计: 0
+domain_suffix_set:
+- amazontrust.com
+- awstrust.com
+- ss2.us

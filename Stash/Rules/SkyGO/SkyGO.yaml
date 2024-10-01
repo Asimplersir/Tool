@@ -1,0 +1,6 @@
+# 规则名称: SkyGO
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,sky.com
+  - DOMAIN-SUFFIX,skygo.co.nz

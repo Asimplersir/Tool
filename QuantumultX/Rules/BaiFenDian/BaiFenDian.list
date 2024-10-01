@@ -1,0 +1,13 @@
+# 规则名称: BaiFenDian
+# 规则统计: 10
+
+HOST-SUFFIX,baifendian.com,BaiFenDian
+HOST-SUFFIX,bfdcdn.com,BaiFenDian
+HOST-SUFFIX,bfdcloud.com,BaiFenDian
+HOST-SUFFIX,blingoffice.com,BaiFenDian
+HOST-SUFFIX,marimall.cn,BaiFenDian
+HOST-SUFFIX,mediaforce.cn,BaiFenDian
+HOST-SUFFIX,pdeepmatrix.com,BaiFenDian
+HOST-SUFFIX,percent.cn,BaiFenDian
+HOST-SUFFIX,pertalk.cn,BaiFenDian
+HOST-SUFFIX,xworld.net.cn,BaiFenDian

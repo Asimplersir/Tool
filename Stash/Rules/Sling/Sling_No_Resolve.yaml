@@ -1,0 +1,9 @@
+# 规则名称: Sling_No_Resolve
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,dishworld.com
+  - DOMAIN-SUFFIX,movenetworks.com
+  - DOMAIN-SUFFIX,movetv.com
+  - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,slinginternational.com

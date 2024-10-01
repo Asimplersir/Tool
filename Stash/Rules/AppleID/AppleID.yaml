@@ -1,0 +1,8 @@
+# 规则名称: AppleID
+# 规则统计: 5
+
+payload:
+  - DOMAIN,appleid.apple.com
+  - DOMAIN,appleid.cdn-apple.com
+  - DOMAIN,gsa.apple.com
+  - DOMAIN,idmsa.apple.com

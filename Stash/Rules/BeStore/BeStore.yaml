@@ -1,0 +1,7 @@
+# 规则名称: BeStore
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,517lppz.com
+  - DOMAIN-SUFFIX,lppz.com
+  - DOMAIN-SUFFIX,lppzimg.com

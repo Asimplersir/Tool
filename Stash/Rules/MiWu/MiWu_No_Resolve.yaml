@@ -1,0 +1,7 @@
+# 规则名称: MiWu_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,miiiw.cn
+  - DOMAIN-SUFFIX,miiiw.com
+  - DOMAIN-SUFFIX,miiiw.net

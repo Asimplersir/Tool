@@ -1,0 +1,6 @@
+# 规则名称: Duolingo
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,duolingo.cn
+  - DOMAIN-SUFFIX,duolingo.com

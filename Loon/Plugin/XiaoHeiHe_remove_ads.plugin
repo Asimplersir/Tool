@@ -1,0 +1,12 @@
+#!name = 小黑盒去广告
+#!desc = 移除开屏广告和热点板块信息流广告
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiaoHeiHe.png
+
+[Rewrite]
+^https:\/\/api\.xiaoheihe\.cn\/account\/get_ads_info_v2 reject-dict
+
+[Script]
+http-response ^https:\/\/api\.xiaoheihe\.cn\/bbs\/app\/feeds\/news script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/XiaoHeiHe/XiaoHeiHe_remove_ads.js, requires-body = true, tag = 移除热点板块信息流广告
+
+[MitM]
+hostname = api.xiaoheihe.cn

@@ -1,0 +1,6 @@
+# 规则名称: AFP_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,afp.com
+  - DOMAIN-SUFFIX,afpforum.com

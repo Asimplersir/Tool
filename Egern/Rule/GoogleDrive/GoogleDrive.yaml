@@ -1,0 +1,9 @@
+# 规则名称: GoogleDrive
+# 规则统计: 0
+domain_set:
+- www.googleapis.com
+domain_suffix_set:
+- docs.google.com
+- drive.google.com
+- googledrive.com
+- googleusercontent.com

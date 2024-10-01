@@ -1,0 +1,6 @@
+# 规则名称: AppleMail
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,mail.icloud.com.cn
+  - DOMAIN-SUFFIX,mail.me.com

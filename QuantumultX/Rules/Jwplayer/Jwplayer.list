@@ -1,0 +1,8 @@
+# 规则名称: Jwplayer
+# 规则统计: 5
+
+HOST-SUFFIX,jwpcdn.com,Jwplayer
+HOST-SUFFIX,jwplatform.com,Jwplayer
+HOST-SUFFIX,jwplayer.com,Jwplayer
+HOST-SUFFIX,jwpltx.com,Jwplayer
+HOST-SUFFIX,jwpsrv.com,Jwplayer

@@ -1,0 +1,9 @@
+# 规则名称: WeiZhiYunDong
+# 规则统计: 0
+domain_set:
+- weizhiyundong.list
+domain_suffix_set:
+- dicom365.com
+- dycom365.com
+- wedcm.com
+- weiyunyingxiang.com

@@ -1,0 +1,8 @@
+# 规则名称: Dailymotion
+# 规则统计: 5
+
+HOST-SUFFIX,dai.ly,Dailymotion
+HOST-SUFFIX,dailymotion.com,Dailymotion
+HOST-SUFFIX,dm-event.net,Dailymotion
+HOST-SUFFIX,dmcdn.net,Dailymotion
+HOST-SUFFIX,dmxleo.com,Dailymotion

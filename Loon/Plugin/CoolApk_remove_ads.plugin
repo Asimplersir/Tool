@@ -1,0 +1,14 @@
+#!name = 酷安去广告
+#!desc = 过滤酷安广告
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CoolApk.png
+
+[Rewrite]
+^https:\/\/api\.coolapk\.com\/v6\/search\?.*type=hotSearch reject-dict
+
+[Script]
+http-response ^https:\/\/api\.coolapk\.com\/v6\/feed\/(detail|replyList)\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/CoolApk/CoolApk_remove_ads.js, requires-body = true, tag = 移除酷安广告
+http-response ^https:\/\/api\.coolapk\.com\/v6\/main\/(dataList|indexV8|init) script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/CoolApk/CoolApk_remove_ads.js, requires-body = true, tag = 移除酷安广告
+http-response ^https:\/\/api\.coolapk\.com\/v6\/page\/dataList\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/CoolApk/CoolApk_remove_ads.js, requires-body = true, tag = 移除酷安广告
+
+[MitM]
+hostname = api.coolapk.com

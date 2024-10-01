@@ -1,0 +1,11 @@
+# 规则名称: GoogleDrive
+# 规则统计: 8
+
+HOST,www.googleapis.com,GoogleDrive
+HOST-SUFFIX,docs.google.com,GoogleDrive
+HOST-SUFFIX,drive.google.com,GoogleDrive
+HOST-SUFFIX,googledrive.com,GoogleDrive
+HOST-SUFFIX,googleusercontent.com,GoogleDrive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,GoogleDrive
+USER-AGENT,*com.google.Drive*,GoogleDrive
+USER-AGENT,Google.Drive*,GoogleDrive

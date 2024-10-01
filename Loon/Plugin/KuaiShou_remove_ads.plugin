@@ -1,0 +1,11 @@
+#!name = 快手去广告
+#!desc = 移除开屏广告、应用内悬浮窗，精简我的页面。
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/KuaiShou.png
+
+[Rewrite]
+
+[Script]
+http-response ^https:\/\/az4-api(-idc)?\.ksapisrv\.com\/rest\/n\/feed\/selectionFast\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/KuaiShou/KuaiShou_remove_ads.js, requires-body = true, tag = 移除视频流广告
+
+[MitM]
+hostname = az4-api.ksapisrv.com, az4-api-idc.ksapisrv.com

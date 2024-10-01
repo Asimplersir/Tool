@@ -1,0 +1,10 @@
+# 规则名称: Sectigo
+# 规则统计: 7
+
+HOST-SUFFIX,enterprisessl.com,Sectigo
+HOST-SUFFIX,hackerguardian.com,Sectigo
+HOST-SUFFIX,instantssl.com,Sectigo
+HOST-SUFFIX,optimumssl.com,Sectigo
+HOST-SUFFIX,positivessl.com,Sectigo
+HOST-SUFFIX,sectigo.com,Sectigo
+HOST-SUFFIX,usertrust.com,Sectigo

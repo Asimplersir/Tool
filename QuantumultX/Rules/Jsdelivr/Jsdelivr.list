@@ -1,0 +1,6 @@
+# 规则名称: Jsdelivr
+# 规则统计: 3
+
+HOST-SUFFIX,esm.run,Jsdelivr
+HOST-SUFFIX,jsdelivr.com,Jsdelivr
+HOST-SUFFIX,jsdelivr.net,Jsdelivr

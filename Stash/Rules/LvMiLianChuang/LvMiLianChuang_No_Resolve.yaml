@@ -1,0 +1,10 @@
+# 规则名称: LvMiLianChuang_No_Resolve
+# 规则统计: 7
+
+payload:
+  - DOMAIN-SUFFIX,aqara.cn
+  - DOMAIN-SUFFIX,aqara.com
+  - DOMAIN-SUFFIX,aqara.com.cn
+  - DOMAIN-SUFFIX,lumiunited.cn
+  - DOMAIN-SUFFIX,lumiunited.com
+  - DOMAIN-SUFFIX,lumiunited.com.cn

@@ -1,0 +1,9 @@
+# 规则名称: Python
+# 规则统计: 0
+domain_suffix_set:
+- pycon.org
+- pypa.io
+- pypi.io
+- pypi.org
+- python.org
+- pythonhosted.org

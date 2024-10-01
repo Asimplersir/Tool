@@ -1,0 +1,9 @@
+# 规则名称: CNN
+# 规则统计: 6
+
+HOST-SUFFIX,cnn.com,CNN
+HOST-SUFFIX,cnn.io,CNN
+HOST-SUFFIX,cnn.it,CNN
+HOST-SUFFIX,cnnarabic.com,CNN
+HOST-SUFFIX,cnnlabs.com,CNN
+HOST-SUFFIX,cnnmoney.ch,CNN

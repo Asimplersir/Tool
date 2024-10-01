@@ -1,0 +1,5 @@
+# 规则名称: LastPass
+# 规则统计: 2
+
+DOMAIN-SUFFIX,lastpass.com
+PROCESS-NAME,LastPass

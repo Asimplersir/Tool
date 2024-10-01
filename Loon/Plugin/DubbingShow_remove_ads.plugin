@@ -1,0 +1,24 @@
+#!name = 配音秀去广告
+#!desc = 移除开屏广告、弹窗、横幅、各类关注推荐。
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DubbingShow.png
+
+[Rule]
+DOMAIN, ios.bugly.qq.com, REJECT
+DOMAIN, sdk.e.qq.com, REJECT
+DOMAIN, us.l.qq.com, REJECT
+DOMAIN-SUFFIX, ugdtimg.com, REJECT
+DOMAIN-SUFFIX, gdt.qq.com, REJECT
+DOMAIN, tmeadcomm.y.qq.com, REJECT
+
+[Rewrite]
+首页 - 推荐 - 语聊横幅
+^https:\/\/iosapi\.peiyinxiu\.com\/Api\/live\/LiveList response-body-json-del data.banners
+^https:\/\/iosapi\.peiyinxiu\.com\/api\/live\/FollowList response-body-json-del obj.data
+^https:\/\/iosapi\.peiyinxiu\.com\/Api\/Friend\/GetRecommendUsers response-body-json-del obj.data
+^https:\/\/iosapi\.peiyinxiu\.com\/api\/Union\/HomeData response-body-json-del obj.data
+
+[Script]
+http-response ^https:\/\/iosapi\.peiyinxiu\.com\/Api\/Film\/GetConfigValue script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/DubbingShow/DubbingShow_remove_ads.js, requires-body = true, tag = 移除首页底部弹窗
+
+[MitM]
+hostname = iosapi.peiyinxiu.com

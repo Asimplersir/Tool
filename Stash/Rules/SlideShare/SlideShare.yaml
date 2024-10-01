@@ -1,0 +1,7 @@
+# 规则名称: SlideShare
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,slideshare.com
+  - DOMAIN-SUFFIX,slideshare.net
+  - DOMAIN-SUFFIX,slidesharecdn.com

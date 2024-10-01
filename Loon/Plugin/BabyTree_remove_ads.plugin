@@ -1,0 +1,15 @@
+#!name = 宝宝树孕育去广告
+#!desc = 过滤宝宝树孕育广告
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BabyTree.png
+
+[Rule]
+URL-REGEX, ^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(index_activity\/get_app_index_activity|sign\/sign_h_5)\?, REJECT-DICT
+URL-REGEX, ^http:\/\/go\.babytree\.com\/go_search\/api\/mobile_search_new\/get_multi_search_default_keywords\?, REJECT-DICT
+URL-REGEX, ^http:\/\/m\.meitun\.com\/newapi\/router\/topic\/hometptf\/feedRecommend, REJECT-DICT
+URL-REGEX, ^http:\/\/pic08\.babytreeimg\.com\/knowledge\/2022\/0923\/\w+, REJECT
+URL-REGEX, ^http:\/\/plough\.babytree\.com\/plough\.do, REJECT-DICT
+
+[Script]
+http-response ^http:\/\/api\.babytree\.com\/bafconfigcenter_intf\/config\/get\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/BabyTree/BabyTree_remove_ads.js, requires-body = true, tag = 调整整体配置
+http-response ^http:\/\/go\.babytree\.com\/go_pregnancy\/api\/(app_index\/get_app_tab|cms_column\/get_column_list|feeds\/get_index_feeds_list|user\/get_user_info)\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/BabyTree/BabyTree_remove_ads.js, requires-body = true, tag = 移除各页面推广
+http-response ^http:\/\/go\.babytree\.com\/go_search\/api\/mobile_search_new\/search_index script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/BabyTree/BabyTree_remove_ads.js, requires-body = true, tag = 移除搜索列表推广

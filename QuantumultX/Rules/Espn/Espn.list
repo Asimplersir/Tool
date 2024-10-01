@@ -1,0 +1,14 @@
+# 规则名称: Espn
+# 规则统计: 11
+
+HOST,espn.api.edge.bamgrid.com,Espn
+HOST,espn.hb.omtrdc.net,Espn
+HOST,espndotcom.tt.omtrdc.net,Espn
+HOST-SUFFIX,dtci.co,Espn
+HOST-SUFFIX,dtci.technology,Espn
+HOST-SUFFIX,espn.co.uk,Espn
+HOST-SUFFIX,espn.com,Espn
+HOST-SUFFIX,espn.net,Espn
+HOST-SUFFIX,espncdn.com,Espn
+HOST-SUFFIX,espnqa.com,Espn
+HOST-SUFFIX,watchespn.com,Espn

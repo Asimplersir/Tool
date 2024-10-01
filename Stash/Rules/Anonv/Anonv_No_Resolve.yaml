@@ -1,0 +1,6 @@
+# 规则名称: Anonv_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,anon-v.com
+  - DOMAIN-SUFFIX,anon-v.lol

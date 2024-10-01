@@ -1,0 +1,5 @@
+# 规则名称: Zalo
+# 规则统计: 2
+
+HOST-SUFFIX,zalo.me,Zalo
+HOST-SUFFIX,zaloapp.com,Zalo

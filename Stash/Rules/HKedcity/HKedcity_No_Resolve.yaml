@@ -1,0 +1,7 @@
+# 规则名称: HKedcity_No_Resolve
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,edcity.hk
+  - DOMAIN-SUFFIX,hkedcity.net
+  - DOMAIN-SUFFIX,hkreadingcity.net

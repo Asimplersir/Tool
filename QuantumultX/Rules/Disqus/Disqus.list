@@ -1,0 +1,6 @@
+# 规则名称: Disqus
+# 规则统计: 3
+
+HOST-SUFFIX,disqus.com,Disqus
+HOST-SUFFIX,disquscdn.com,Disqus
+HOST-SUFFIX,disqusservice.com,Disqus

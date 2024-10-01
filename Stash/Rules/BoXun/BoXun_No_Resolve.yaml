@@ -1,0 +1,6 @@
+# 规则名称: BoXun_No_Resolve
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,bowenpress.com
+  - DOMAIN-SUFFIX,boxun.com

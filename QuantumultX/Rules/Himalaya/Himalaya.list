@@ -1,0 +1,21 @@
+# 规则名称: Himalaya
+# 规则统计: 18
+
+HOST-SUFFIX,9nali.com,Himalaya
+HOST-SUFFIX,conchdate.com,Himalaya
+HOST-SUFFIX,himalaya.com,Himalaya
+HOST-SUFFIX,himalaya.cool,Himalaya
+HOST-SUFFIX,qingxuetang.com,Himalaya
+HOST-SUFFIX,soundconch.com,Himalaya
+HOST-SUFFIX,tableauxmly.com,Himalaya
+HOST-SUFFIX,xima.tv,Himalaya
+HOST-SUFFIX,ximalaya.com,Himalaya
+HOST-SUFFIX,ximalaya.fm,Himalaya
+HOST-SUFFIX,ximalaya.tv,Himalaya
+HOST-SUFFIX,ximalayadata.com,Himalaya
+HOST-SUFFIX,xmcdn.com,Himalaya
+HOST-SUFFIX,zhishif.com,Himalaya
+HOST-SUFFIX,zhishinn.com,Himalaya
+HOST-SUFFIX,zhishiu.com,Himalaya
+HOST-SUFFIX,zhishiv.com,Himalaya
+USER-AGENT,Himalaya*,Himalaya

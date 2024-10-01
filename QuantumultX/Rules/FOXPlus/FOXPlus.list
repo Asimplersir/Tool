@@ -1,0 +1,10 @@
+# 规则名称: FOXPlus
+# 规则统计: 7
+
+HOST,cdn-fox-networks-group-green.akamaized.net,FOXPlus
+HOST,d3cv4a9a9wh0bt.cloudfront.net,FOXPlus
+HOST,foxsports01-i.akamaihd.net,FOXPlus
+HOST,foxsports02-i.akamaihd.net,FOXPlus
+HOST,foxsports03-i.akamaihd.net,FOXPlus
+HOST,staticasiafox.akamaized.net,FOXPlus
+HOST-SUFFIX,foxplus.com,FOXPlus

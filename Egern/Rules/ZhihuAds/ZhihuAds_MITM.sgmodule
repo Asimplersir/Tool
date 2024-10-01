@@ -1,0 +1,2 @@
+[MITM]
+hostname = %APPEND% 103.41.167.226,103.41.167.234,103.41.167.235,103.41.167.236,api.zhihu.com,zhuanlan.zhihu.com

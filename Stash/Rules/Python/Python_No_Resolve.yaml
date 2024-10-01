@@ -1,0 +1,10 @@
+# 规则名称: Python_No_Resolve
+# 规则统计: 7
+
+payload:
+  - DOMAIN-SUFFIX,pycon.org
+  - DOMAIN-SUFFIX,pypa.io
+  - DOMAIN-SUFFIX,pypi.io
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,pythonhosted.org

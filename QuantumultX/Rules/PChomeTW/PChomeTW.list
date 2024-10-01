@@ -1,0 +1,8 @@
+# 规则名称: PChomeTW
+# 规则统计: 5
+
+HOST-SUFFIX,ecapi-pchome.cdn.hinet.net,PChomeTW
+HOST-SUFFIX,ecimg.tw,PChomeTW
+HOST-SUFFIX,pchome.com.tw,PChomeTW
+HOST-SUFFIX,pchomepay.com.tw,PChomeTW
+HOST-SUFFIX,pcloud.tw,PChomeTW

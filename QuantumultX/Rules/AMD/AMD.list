@@ -1,0 +1,7 @@
+# 规则名称: AMD
+# 规则统计: 4
+
+HOST-SUFFIX,amd.com,AMD
+HOST-SUFFIX,amd.com.cn,AMD
+HOST-SUFFIX,amdfanstore.com,AMD
+HOST-SUFFIX,radeon.com,AMD

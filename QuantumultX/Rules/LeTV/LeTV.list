@@ -1,0 +1,16 @@
+# 规则名称: LeTV
+# 规则统计: 13
+
+HOST-SUFFIX,le.com,LeTV
+HOST-SUFFIX,lecloud.com,LeTV
+HOST-SUFFIX,lelecdn.com,LeTV
+HOST-SUFFIX,lemall.com,LeTV
+HOST-SUFFIX,letv.com,LeTV
+HOST-SUFFIX,letv8.com,LeTV
+HOST-SUFFIX,letvcdn.com,LeTV
+HOST-SUFFIX,letvcloud.com,LeTV
+HOST-SUFFIX,letvimg.com,LeTV
+HOST-SUFFIX,letvlive.com,LeTV
+HOST-SUFFIX,letvstore.com,LeTV
+HOST-SUFFIX,sanguowudi.com,LeTV
+HOST-SUFFIX,videougc.com,LeTV

@@ -1,0 +1,7 @@
+# 规则名称: KuKeMusic
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,kuke.com
+  - DOMAIN-SUFFIX,kukey.com.cn
+  - DOMAIN-SUFFIX,naxos.cn

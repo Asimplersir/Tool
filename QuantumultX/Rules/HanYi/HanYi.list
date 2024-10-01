@@ -1,0 +1,12 @@
+# 规则名称: HanYi
+# 规则统计: 9
+
+HOST,hellofontpreview.oss-cn-beijing.aliyuncs.com,HanYi
+HOST,hellowebfonts.oss-cn-beijing.aliyuncs.com,HanYi
+HOST-SUFFIX,fontstar.com.cn,HanYi
+HOST-SUFFIX,fontstudio.cn,HanYi
+HOST-SUFFIX,hanyi.com,HanYi
+HOST-SUFFIX,hanyi.com.cn,HanYi
+HOST-SUFFIX,hellowebfont.com,HanYi
+HOST-SUFFIX,ifont.cn,HanYi
+HOST-SUFFIX,joytype.com,HanYi

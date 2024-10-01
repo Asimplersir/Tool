@@ -1,0 +1,7 @@
+# 规则名称: Bootcss
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,bootcdn.cn
+  - DOMAIN-SUFFIX,bootcss.com
+  - DOMAIN-SUFFIX,phpcomposer.com

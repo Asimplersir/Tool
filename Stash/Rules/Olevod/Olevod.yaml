@@ -1,0 +1,9 @@
+# 规则名称: Olevod
+# 规则统计: 6
+
+payload:
+  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olelive.com
+  - DOMAIN-KEYWORD,olevod

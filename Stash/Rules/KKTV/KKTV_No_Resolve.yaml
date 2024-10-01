@@ -1,0 +1,8 @@
+# 规则名称: KKTV_No_Resolve
+# 规则统计: 5
+
+payload:
+  - DOMAIN,kktv-theater.kk.stream
+  - DOMAIN,theater-kktv.cdn.hinet.net
+  - DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN-SUFFIX,kktv.me

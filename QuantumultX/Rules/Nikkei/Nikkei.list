@@ -1,0 +1,6 @@
+# 规则名称: Nikkei
+# 规则统计: 3
+
+HOST-SUFFIX,nikkei.co.jp,Nikkei
+HOST-SUFFIX,nikkei.com,Nikkei
+HOST-SUFFIX,nikkei.jp,Nikkei

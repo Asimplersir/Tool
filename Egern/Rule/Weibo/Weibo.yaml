@@ -1,0 +1,8 @@
+# 规则名称: Weibo
+# 规则统计: 0
+domain_suffix_set:
+- weibo.cn
+- weibo.com
+- weibocdn.com
+domain_keyword_set:
+- weibo

@@ -1,0 +1,6 @@
+# 规则名称: HKedcity
+# 规则统计: 3
+
+HOST-SUFFIX,edcity.hk,HKedcity
+HOST-SUFFIX,hkedcity.net,HKedcity
+HOST-SUFFIX,hkreadingcity.net,HKedcity

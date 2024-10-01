@@ -1,0 +1,10 @@
+# 规则名称: Cake
+# 规则统计: 7
+
+HOST,d1koerlbtsmkf8.cloudfront.net,Cake
+HOST,d31wl6mro6753i.cloudfront.net,Cake
+HOST,static-mycake.pstatic.net,Cake
+HOST,vstatic-mycake.pstatic.net,Cake
+HOST-SUFFIX,cake.day,Cake
+HOST-SUFFIX,cakeapp.me,Cake
+HOST-SUFFIX,mycake.me,Cake

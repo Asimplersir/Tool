@@ -1,0 +1,5 @@
+# 规则名称: Overcast
+# 规则统计: 2
+
+DOMAIN-SUFFIX,overcast.fm
+USER-AGENT,Overcast*

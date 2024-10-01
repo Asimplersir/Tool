@@ -1,0 +1,10 @@
+#!name = Google搜索重定向
+#!desc = 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。
+#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Google.png
+
+[Rewrite]
+^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
+^https?:\/\/(ditu|maps).google\.cn 302 https://maps.google.com
+
+[MitM]
+hostname = www.google.cn

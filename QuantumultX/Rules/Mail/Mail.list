@@ -1,0 +1,15 @@
+# 规则名称: Mail
+# 规则统计: 12
+
+HOST,apple.imap.mail.yahoo.com,Mail
+HOST,apple.smtp.mail.yahoo.com,Mail
+HOST,imap-mail.outlook.com,Mail
+HOST,imap.gmail.com,Mail
+HOST,outlook.office365.com,Mail
+HOST,pop.gmail.com,Mail
+HOST,smtp-mail.outlook.com,Mail
+HOST,smtp.gmail.com,Mail
+HOST,smtp.office365.com,Mail
+HOST-SUFFIX,imap.yandex.com,Mail
+HOST-SUFFIX,m.hotmail.com,Mail
+HOST-SUFFIX,smtp.yandex.com,Mail

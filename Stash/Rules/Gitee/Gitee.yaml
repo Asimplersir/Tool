@@ -1,0 +1,6 @@
+# 规则名称: Gitee
+# 规则统计: 3
+
+payload:
+  - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,gitee.io
