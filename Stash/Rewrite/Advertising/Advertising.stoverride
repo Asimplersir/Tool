@@ -1,8 +1,8 @@
 # 规则名称: Advertising.stoverride
-# 规则统计: 1414
+# 规则统计: 1416
 
 name: 复写去广告
-desc: 最后更新时间 2024-09-24 02:15:50
+desc: 最后更新时间 2024-10-02 02:15:52
 http:
   rewrite:
     - ^http:\/\/.*aastocks\.com\/ad\/ - reject
@@ -243,6 +243,7 @@ http:
     - ^https?:\/\/api\.k\.sohu\.com\/api\/news\/adsense - reject
     - ^https?:\/\/api\.kkmh\.com\/v\d+\/(ad|advertisement)\/ - reject
     - ^https?:\/\/api\.kmovie\.gifshow\.com\/rest\/n\/kmovie\/app\/(resource|banner) - reject
+    - ^https?:\/\/api\.kurobbs\.com\/config\/getOpenScreen - reject
     - ^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads - reject
     - ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=home_launchConfig - reject
     - ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
@@ -881,6 +882,7 @@ http:
     - "api.kkmh.com"
     - "api.kmovie.gifshow.com"
     - "api.kuaidihelp.com"
+    - "api.kurobbs.com"
     - "api.laifeng.com"
     - "api.m.jd.com"
     - "api.m.mi.com"
