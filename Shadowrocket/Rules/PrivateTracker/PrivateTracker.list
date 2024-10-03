@@ -1,11 +1,12 @@
 # 规则名称: PrivateTracker
-# 规则统计: 249
+# 规则统计: 256
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,aegir.sexy
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.archive.org
@@ -19,7 +20,6 @@ DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
-DOMAIN,free.publictracker.xyz
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.rer.lol
 DOMAIN,jutone.com
@@ -34,6 +34,8 @@ DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
+DOMAIN,open.u-p.pw
+DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
@@ -57,10 +59,12 @@ DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr1.aag.moe
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
+DOMAIN,tracker.auctor.tv
 DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
@@ -84,6 +88,7 @@ DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
 DOMAIN,tracker.k.vu
 DOMAIN,tracker.kmzs123.cf
+DOMAIN,tracker.kmzs123.tk
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
@@ -96,6 +101,7 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -106,6 +112,7 @@ DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
+DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
