@@ -1,5 +1,5 @@
 # 规则名称: ChinaIPsTest_Classical_No_Resolve
-# 规则统计: 31356
+# 规则统计: 31354
 
 payload:
   - IP-CIDR,1.0.1.0/24,no-resolve
@@ -1038,7 +1038,6 @@ payload:
   - IP-CIDR,103.140.152.0/23,no-resolve
   - IP-CIDR,103.140.192.0/23,no-resolve
   - IP-CIDR,103.140.228.0/23,no-resolve
-  - IP-CIDR,103.140.246.0/23,no-resolve
   - IP-CIDR,103.140.46.0/23,no-resolve
   - IP-CIDR,103.140.70.0/23,no-resolve
   - IP-CIDR,103.140.8.0/23,no-resolve
@@ -1147,7 +1146,6 @@ payload:
   - IP-CIDR,103.149.244.0/23,no-resolve
   - IP-CIDR,103.149.246.0/23,no-resolve
   - IP-CIDR,103.149.248.0/23,no-resolve
-  - IP-CIDR,103.149.4.0/24,no-resolve
   - IP-CIDR,103.149.44.0/23,no-resolve
   - IP-CIDR,103.149.6.0/23,no-resolve
   - IP-CIDR,103.15.16.0/22,no-resolve
@@ -30671,7 +30669,7 @@ payload:
   - IP-CIDR6,2406:840:e232::/47,no-resolve
   - IP-CIDR6,2406:840:e234::/47,no-resolve
   - IP-CIDR6,2406:840:e237::/48,no-resolve
-  - IP-CIDR6,2406:840:e23a::/48,no-resolve
+  - IP-CIDR6,2406:840:e23a::/47,no-resolve
   - IP-CIDR6,2406:840:e36f::/48,no-resolve
   - IP-CIDR6,2406:840:e666::/47,no-resolve
   - IP-CIDR6,2406:840:e720::/48,no-resolve
@@ -30679,8 +30677,7 @@ payload:
   - IP-CIDR6,2406:840:e777::/48,no-resolve
   - IP-CIDR6,2406:840:e80f::/48,no-resolve
   - IP-CIDR6,2406:840:e880::/44,no-resolve
-  - IP-CIDR6,2406:840:eab0::/47,no-resolve
-  - IP-CIDR6,2406:840:eab2::/48,no-resolve
+  - IP-CIDR6,2406:840:eab0::/48,no-resolve
   - IP-CIDR6,2406:840:eab4::/48,no-resolve
   - IP-CIDR6,2406:840:eabb::/48,no-resolve
   - IP-CIDR6,2406:840:eabc::/48,no-resolve
@@ -31314,6 +31311,7 @@ payload:
   - IP-CIDR6,240a:40c3:c200::/48,no-resolve
   - IP-CIDR6,240a:40c3:c240::/48,no-resolve
   - IP-CIDR6,240a:4172::/31,no-resolve
+  - IP-CIDR6,240a:41b0::/34,no-resolve
   - IP-CIDR6,240a:41b8::/31,no-resolve
   - IP-CIDR6,240a:41f2::/31,no-resolve
   - IP-CIDR6,240a:420a::/31,no-resolve

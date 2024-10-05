@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 251
+# 规则统计: 252
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -11,6 +11,7 @@ HOST,bt.rer.lol,PrivateTracker
 HOST,bt1.archive.org,PrivateTracker
 HOST,bt2.archive.org,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
+HOST,canardscitrons.nohost.me,PrivateTracker
 HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
@@ -54,8 +55,6 @@ HOST,torrents.artixlinux.org,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr1.aag.moe,PrivateTracker
-HOST,tr2.trkb.ru,PrivateTracker
-HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
@@ -69,6 +68,7 @@ HOST,tracker.cloudit.top,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.darkness.services,PrivateTracker
 HOST,tracker.ddunlimited.net,PrivateTracker
+HOST,tracker.deadorbit.nl,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
 HOST,tracker.edkj.club,PrivateTracker
@@ -92,6 +92,7 @@ HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
 HOST,tracker.peckservers.com,PrivateTracker
 HOST,tracker.pmman.tech,PrivateTracker
+HOST,tracker.qu.ax,PrivateTracker
 HOST,tracker.renfei.net,PrivateTracker
 HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
