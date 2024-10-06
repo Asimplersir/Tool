@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 253
+# 规则统计: 251
 
 payload:
   - DOMAIN,1337.abcvg.info
@@ -23,7 +23,6 @@ payload:
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,jutone.com
-  - DOMAIN,jvavav.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,moonburrow.club
   - DOMAIN,new-line.net
@@ -39,6 +38,7 @@ payload:
   - DOMAIN,opentracker.io
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
+  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
@@ -48,14 +48,15 @@ payload:
   - DOMAIN,ryjer.com
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
-  - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
   - DOMAIN,tk2.trackerservers.com
+  - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.burnabyhighstar.com
-  - DOMAIN,tr1.aag.moe
+  - DOMAIN,tr2.trkb.ru
+  - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -84,8 +85,6 @@ payload:
   - DOMAIN,tracker.ipfsscan.io
   - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,tracker.jamesthebard.net
-  - DOMAIN,tracker.k.vu
-  - DOMAIN,tracker.kmzs123.cf
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.mywaifu.best
@@ -109,7 +108,6 @@ payload:
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
