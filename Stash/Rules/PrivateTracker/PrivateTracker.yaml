@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 251
+# 规则统计: 252
 
 payload:
   - DOMAIN,1337.abcvg.info
@@ -25,7 +25,6 @@ payload:
   - DOMAIN,jutone.com
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,moonburrow.club
-  - DOMAIN,new-line.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,odd-hd.fr
   - DOMAIN,open.acgtracker.com
@@ -33,13 +32,14 @@ payload:
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
+  - DOMAIN,open.u-p.pw
   - DOMAIN,open.xxtor.com
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
-  - DOMAIN,public.tracker.vraphim.com
   - DOMAIN,pybittrack.retiolus.net
+  - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.x2k.ru
@@ -54,9 +54,10 @@ payload:
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
+  - DOMAIN,tr1.aag.moe
   - DOMAIN,tr2.trkb.ru
-  - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -75,7 +76,6 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.electro-torrent.pl
-  - DOMAIN,tracker.farted.net
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.files.fm
   - DOMAIN,tracker.fnix.net
@@ -108,6 +108,7 @@ payload:
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
   - DOMAIN,tracker1.itzmx.com
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com

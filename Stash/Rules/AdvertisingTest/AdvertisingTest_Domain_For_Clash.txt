@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingTest_Domain_For_Clash
-# 规则统计: 177383
+# 规则统计: 177398
 
 110.93.143.144
 156.233.32.123
@@ -785,7 +785,6 @@ g.jssdk.net
 g.newss.pw
 g.wq96f9.com
 g2.symcb.com
-gallery.pandora.xiaomi.com
 game.fire2333.com
 game.youzu.com
 gb386.com
@@ -822,7 +821,6 @@ gtssl-aia.geotrust.com
 guangyukeji.com
 guanjia.qq.com
 guowaidiaocha.com
-gvod.aiseejapp.atianqi.com
 gw.365you.com
 h1.xysibu.cn
 h163e.com
@@ -855,7 +853,6 @@ homelessinmoscow.j8inn1zektoe.com
 homepage.j8inn1zektoe.com
 homepage2.j8inn1zektoe.com
 houxingfu.com
-hpplay.cdn.cibn.cc
 http.52dsj.com
 httpdns-sdk.n.netease.com
 httpdns.browser.miui.com
@@ -1053,7 +1050,6 @@ mg.info.averydennison.com
 mg4376.cc
 mg58.com
 mig.str.mdt.qq.com
-misc.pandora.xiaomi.com
 missweike58.com
 missweike9988.com
 mitaosp829.17arch.com
@@ -10056,7 +10052,6 @@ piercial.com
 piifwkvdil.com
 pijlvpsqf.com
 pikkr.net
-pin.hpplay.cn
 pinddeals.com
 pingoli.info
 pingqwlxklbiev.com
@@ -11647,7 +11642,6 @@ sssyabhje.com
 ssucvdbxxlibn.com
 ssypntfmi.com
 stadsvc.com
-starfish.pandora.xiaomi.com
 startraint.com
 stat-data.net
 stat-well.com
@@ -11883,7 +11877,6 @@ tapffdskgjr.com
 targetctracker.com
 targeterra.info
 tarteaucitron.ml
-tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tattomedia.com
@@ -12810,7 +12803,6 @@ vicegnem.click
 victor.connectcloud.ch
 vidcoin.com
 video-loader.com
-video.market.xiaomi.com
 videoclick.ru
 videodeals.com
 videohub.com
@@ -14544,22 +14536,30 @@ f4.market.xiaomi.com
 f5.market.mi-img.com
 f5.market.xiaomi.com
 g.dtv.cn.miaozhan.com
+gallery.pandora.xiaomi.com
 gslb.hpplay.cn
+gvod.aiseejapp.atianqi.com
 hotupgrade.hpplay.cn
+hpplay.cdn.cibn.cc
 image.hpplay.cn
 market.xiaomi.com
 milink.pandora.xiaomi.com
+misc.pandora.xiaomi.com
 ota.cdn.pandora.xiaomi.com
 package.box.xiaomi.com
 package.cdn.pandora.xiaomi.com
 pandora.mi.com
+pin.hpplay.cn
 redirect.pandora.xiaomi.com
 rps.hpplay.cn
 staging.ai.api.xiaomi.com
+starfish.pandora.xiaomi.com
+tat.pandora.xiaomi.com
 tv.weixin.pandora.xiaomi.com
 tvapp.hpplay.cn
 tvmanager.pandora.xiaomi.com
 tvmgr.pandora.xiaomi.com
+video.market.xiaomi.com
 vipauth.hpplay.cn
 vipsdkauth.hpplay.cn
 01daa.luzdz.com
@@ -16242,7 +16242,8 @@ zzyanhushi.com
 45.32.105.134
 77.162.125.199
 opencloud.wostore.cn
-+.80133082.xyz
++.11778562.xyz
++.2efgcdcjr000.fun
 +.adfstat.yandex.ru
 +.ads.youtube.com
 +.amc.yandex.ru
@@ -16258,16 +16259,19 @@ opencloud.wostore.cn
 +.applecare-icloud.com
 +.appleservenumeric.com
 +.applesometimes.com
-+.avqdhss.icu
 +.awsync.yandex.ru
 +.barbecueappledos.pw
 +.beacon.search.yahoo.com
 +.beap-bc.yahoo.com
 +.blueduckredapple.com
++.bmqulua.icu
 +.c2shb.pubgw.yahoo.com
++.clmcam.xyz
 +.conceitedfedapple.com
 +.data.mistat.xiaomi.com
++.ddlmsoyo.icu
 +.dmg-dd.oss-accelerate.aliyuncs.com
++.edadmy.xyz
 +.email-apple.support
 +.fmiphone-apple.com
 +.fpb1.apple886.com
@@ -16275,26 +16279,23 @@ opencloud.wostore.cn
 +.https-apple.com
 +.ib.snssdk.com
 +.idapple.com
-+.itakrid.icu
 +.jpaasne.e.shifen.com
 +.juniorapplesconsonant.com
++.kgymoc.xyz
 +.log.strm.yandex.ru
 +.login-applecare.com
-+.lwurserl.top
 +.marketingsolutions.yahoo.com
 +.mediaappletree.com
 +.metrics.apple.com
-+.pbvdlb.xyz
++.mwurserx.top
++.oaiqksi.top
 +.pineappleconsideringpreference.com
-+.plfwxtgu.icu
 +.pr.comet.yahoo.com
-+.qzorwe.xyz
 +.redpineapplemedia.com
 +.securemvt.apple.com
 +.settlepineapple.com
 +.shackapple.com
 +.share-apple.com
-+.srmsii.xyz
 +.stapplebecaps.top
 +.stats.video.search.yahoo.com
 +.sub.powerapple.com
@@ -16308,8 +16309,9 @@ opencloud.wostore.cn
 +.webc2s.pubgw.yahoo.com
 +.wondefulapplend.com
 +.wzjs1.oss-accelerate.aliyuncs.com
++.xlxehr.xyz
 +.yajnagrapple.top
-+.yuayku.xyz
++.yjwxegq.icu
 +.0.code.cotsta.ru
 +.0001.best
 +.0008d6ba2e.com
@@ -18405,6 +18407,7 @@ opencloud.wostore.cn
 +.6e3ee87ff2.com
 +.6ec7e42994.com
 +.6ef2279e3d.com
++.6efgcdcjr000.fun
 +.6f752f73ce.com
 +.6fi3bv9.cn
 +.6fxtpu64lxyt.com
@@ -18669,6 +18672,7 @@ opencloud.wostore.cn
 +.8000plus.si
 +.80055404.vtt
 +.800c7864eb.com
++.80133082.xyz
 +.8020solutions.net
 +.805.red
 +.806b781310.com
@@ -27264,6 +27268,7 @@ opencloud.wostore.cn
 +.avplwte.xyz
 +.avpris.ru
 +.avprotect.store
++.avqdhss.icu
 +.avqhelxlb.com
 +.avroad3431.fun
 +.avrom.xyz
@@ -32010,6 +32015,7 @@ opencloud.wostore.cn
 +.bwstatistics.sapoapps.vn
 +.bwtcilgll.com
 +.bwtsrv.com
++.bwurserv.top
 +.bwuwirv.cn
 +.bwvqjqmlkezjk.top
 +.bwvqjqmlkezkl.top
@@ -56141,6 +56147,7 @@ opencloud.wostore.cn
 +.immoxdzdke.com
 +.immugendx.com
 +.immuneincompetentcontemporary.com
++.imndl.icu
 +.imnpkbxrf.xyz
 +.imo-cash.de
 +.imobljkhqw.com
@@ -57702,6 +57709,7 @@ opencloud.wostore.cn
 +.itadapi.ithome.com.tw
 +.itageli.ru
 +.itaisabirs.com
++.itakrid.icu
 +.italianadirectory.com
 +.italianexpecting.com
 +.italianextended.com
@@ -63251,6 +63259,7 @@ opencloud.wostore.cn
 +.live-msr.com
 +.live.careplusvn.com
 +.live.primis.tech
++.live.trmzum.com
 +.live.vnpgroup.net
 +.live4sport.net
 +.liveadexchanger.com
@@ -64672,6 +64681,7 @@ opencloud.wostore.cn
 +.lwrnikzjpp.com
 +.lwrohd.xyz
 +.lwtqqq.com
++.lwurserl.top
 +.lwvbhhvgrv.com
 +.lwwdvshhbj.com
 +.lwwlkj1.cn
@@ -75230,6 +75240,7 @@ opencloud.wostore.cn
 +.pbterra.com
 +.pbtsjh.xyz
 +.pbtxt.win
++.pbvdlb.xyz
 +.pbwlanlzmzeip.com
 +.pbworks.fr
 +.pbxai.com
@@ -76881,6 +76892,7 @@ opencloud.wostore.cn
 +.plexureturp.com
 +.plexworks.de
 +.plfncoqj.top
++.plfwxtgu.icu
 +.plhhisqiem.com
 +.plianteditdisembark.com
 +.pliantleft.com
@@ -80819,6 +80831,7 @@ opencloud.wostore.cn
 +.qzlog.com
 +.qzmqgmlrbdcsiv.com
 +.qznjujv.xyz
++.qzorwe.xyz
 +.qzozsa.xyz
 +.qzpbwq.com
 +.qzqmrlqnnzwab.top
@@ -89501,6 +89514,7 @@ opencloud.wostore.cn
 +.srlhgo.cn
 +.srmdata-us.com
 +.srmdata.com
++.srmsii.xyz
 +.srnov.top
 +.srnpochi.com
 +.srodicham.com
@@ -106767,6 +106781,7 @@ opencloud.wostore.cn
 +.yuanxiaa.cn
 +.yuanxiab.cn
 +.yuanxiang19.fun
++.yuayku.xyz
 +.yucefa.cn
 +.yuckelwilkin.top
 +.yudawbxk.com
@@ -148020,7 +148035,6 @@ opencloud.wostore.cn
 +.atlantablackstar.black.news
 +.atlkse.aosom.it
 +.atom-log.3.cn
-+.atrack.allposters.com
 +.ats.alot.com
 +.atsmetrics.adobe.com
 +.attend.5gnorthamericaevent.com
@@ -155057,7 +155071,6 @@ opencloud.wostore.cn
 +.ie-business.vodafone.com
 +.ie-go.experian.com
 +.ie-mktg.vodafone.com
-+.iedc.fitbit.com
 +.ieeowa.marcjacobsbeauty.com
 +.iefiop.raizs.com.br
 +.ieg.intel.com
@@ -163913,7 +163926,6 @@ opencloud.wostore.cn
 +.pixel.facebook.com
 +.pixel.fohr.co
 +.pixel.homebook.pl
-+.pixel.honestjohn.co.uk
 +.pixel.ionos.com
 +.pixel.ionos.de
 +.pixel.ionos.fr
@@ -172942,7 +172954,6 @@ opencloud.wostore.cn
 +.techservices.trapptechnology.com
 +.techsupport.balluff.com
 +.teczbq.amicashop.com
-+.ted.dailymail.co.uk
 +.teefiksummin.visma.fi
 +.teen.zubie.com
 +.teho.visma.fi
@@ -177297,6 +177308,7 @@ opencloud.wostore.cn
 +.ads.linkedin.com
 +.airpr.com
 +.anva.org.cn
++.atrack.allposters.com
 +.audit.qiuwen.net.cn
 +.cert.org.cn
 +.certlab.org
@@ -177327,6 +177339,7 @@ opencloud.wostore.cn
 +.i-bestmind.com
 +.ics-cert.org.cn
 +.id6.me
++.iedc.fitbit.com
 +.ifcert.cn
 +.ifcert.com
 +.ifcert.org.cn
@@ -177344,6 +177357,7 @@ opencloud.wostore.cn
 +.pardot.com
 +.parrable.com
 +.petametrics.com
++.pixel.honestjohn.co.uk
 +.predic.io
 +.quantcount.com
 +.rem-track.bild.de
@@ -177375,6 +177389,7 @@ opencloud.wostore.cn
 +.tapinfluence.com
 +.tapstream.com
 +.tdep.kvk.nl
++.ted.dailymail.co.uk
 +.tend.io
 +.the-ozone-project.com
 +.tm.uol.com.br
