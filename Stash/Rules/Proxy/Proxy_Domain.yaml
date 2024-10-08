@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5932
+# 规则统计: 5934
 
 payload:
   - 'api.waqi.info'
@@ -3138,6 +3138,7 @@ payload:
   - '+.meshrep.com'
   - '+.mesotw.com'
   - '+.messenger.com'
+  - '+.meta.com'
   - '+.metacafe.com'
   - '+.metafilter.com'
   - '+.metart.com'
@@ -4996,6 +4997,7 @@ payload:
   - '+.torrentproject.se'
   - '+.torrenty.org'
   - '+.torrentz.eu'
+  - '+.tortoisesvn.net'
   - '+.torvpn.com'
   - '+.totalvpn.com'
   - '+.toutiaoabc.com'

@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6523
+# 规则统计: 6526
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -1684,6 +1684,7 @@ HOST-SUFFIX,fa.gov.tw,Proxy
 HOST-SUFFIX,fabric.io,Proxy
 HOST-SUFFIX,facebook.br,Proxy
 HOST-SUFFIX,facebook.com,Proxy
+HOST-SUFFIX,facebook.de,Proxy
 HOST-SUFFIX,facebook.design,Proxy
 HOST-SUFFIX,facebook.hu,Proxy
 HOST-SUFFIX,facebook.in,Proxy
@@ -3506,6 +3507,7 @@ HOST-SUFFIX,merlinblog.xyz,Proxy
 HOST-SUFFIX,meshrep.com,Proxy
 HOST-SUFFIX,mesotw.com,Proxy
 HOST-SUFFIX,messenger.com,Proxy
+HOST-SUFFIX,meta.com,Proxy
 HOST-SUFFIX,metacafe.com,Proxy
 HOST-SUFFIX,metafilter.com,Proxy
 HOST-SUFFIX,metart.com,Proxy
@@ -5416,6 +5418,7 @@ HOST-SUFFIX,torrentprivacy.com,Proxy
 HOST-SUFFIX,torrentproject.se,Proxy
 HOST-SUFFIX,torrenty.org,Proxy
 HOST-SUFFIX,torrentz.eu,Proxy
+HOST-SUFFIX,tortoisesvn.net,Proxy
 HOST-SUFFIX,torvpn.com,Proxy
 HOST-SUFFIX,totalvpn.com,Proxy
 HOST-SUFFIX,toutiaoabc.com,Proxy

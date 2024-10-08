@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Domain
-# 规则统计: 90141
+# 规则统计: 90149
 
 analytics.strava.com
 blzddist1-a.akamaihd.net
@@ -11701,6 +11701,7 @@ xn--flw351e.com
 .aabooo.com
 .aabux.com
 .aad5.com
+.aadcloud.com
 .aadongman.com
 .aads-cng.net
 .aafxw.com
@@ -26136,9 +26137,7 @@ xn--flw351e.com
 .dkybpc.com
 .dkzt.com
 .dl-huahong.com
-.dl-origin.ubnt.com
 .dl-rc.com
-.dl.ubnt.com
 .dl0728.com
 .dl158.net
 .dl2link.com
@@ -40809,6 +40808,7 @@ xn--flw351e.com
 .huawei.asia
 .huawei.eu
 .huawei.ru
+.huaweicloud-idme.com
 .huaweicloudsite.com
 .huaweicloudwaf.com
 .huaweidevice.com
@@ -41461,6 +41461,7 @@ xn--flw351e.com
 .hwcrazy.com
 .hwehs.com
 .hweimall.com
+.hweventgrid.com
 .hwfcw.com
 .hwhidc.com
 .hwht.com
@@ -42499,6 +42500,7 @@ xn--flw351e.com
 .idongde.com
 .idongmai.com
 .idongniu.com
+.idonguapi.com
 .idooshu.com
 .idosend.com
 .idotools.com
@@ -43246,6 +43248,7 @@ xn--flw351e.com
 .in9ni.com
 .inabr.com
 .inad.com
+.inanguapi.com
 .inanrenbang.com
 .inbeing.net
 .inbilin.com
@@ -44259,6 +44262,7 @@ xn--flw351e.com
 .ixiaochengxu.cc
 .ixiatxt.com
 .ixiguan.com
+.ixiguapi.com
 .iximo.com
 .ixingfei.com
 .ixinglu.com
@@ -55301,6 +55305,7 @@ xn--flw351e.com
 .modashi.net
 .modb.cc
 .modb.pro
+.modelarts-infer.com
 .modelevel.com
 .modelwhale.com
 .modeng178.com
@@ -56193,6 +56198,9 @@ xn--flw351e.com
 .myhongzuan.com
 .myhostadmin.net
 .myhscodes.com
+.myhuaweicloud-custom.com
+.myhuaweicloud-koodrive.com
+.myhuaweicloud-obs.com
 .myhuaweicloud.com
 .myhuilv.com
 .myhwclouds.net
@@ -60176,7 +60184,6 @@ xn--flw351e.com
 .pinfangw.com
 .ping-jia.net
 .ping-qu.com
-.ping.ubnt.com
 .ping99.com
 .pingancdn.com
 .pinganfang.com
@@ -74645,6 +74652,7 @@ xn--flw351e.com
 .uwan.com
 .uweitui.com
 .uwenku.com
+.uwn.com
 .uworter.com
 .ux18.com
 .ux6.com

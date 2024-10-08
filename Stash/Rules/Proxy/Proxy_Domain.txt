@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5931
+# 规则统计: 5933
 
 api.waqi.info
 aqi.aqicn.org
@@ -3137,6 +3137,7 @@ voice.telephony.goog
 .meshrep.com
 .mesotw.com
 .messenger.com
+.meta.com
 .metacafe.com
 .metafilter.com
 .metart.com
@@ -4995,6 +4996,7 @@ voice.telephony.goog
 .torrentproject.se
 .torrenty.org
 .torrentz.eu
+.tortoisesvn.net
 .torvpn.com
 .totalvpn.com
 .toutiaoabc.com

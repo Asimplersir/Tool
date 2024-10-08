@@ -11703,6 +11703,7 @@ domain_suffix_set:
 - aabooo.com
 - aabux.com
 - aad5.com
+- aadcloud.com
 - aadongman.com
 - aads-cng.net
 - aafxw.com
@@ -26138,9 +26139,7 @@ domain_suffix_set:
 - dkybpc.com
 - dkzt.com
 - dl-huahong.com
-- dl-origin.ubnt.com
 - dl-rc.com
-- dl.ubnt.com
 - dl0728.com
 - dl158.net
 - dl2link.com
@@ -40811,6 +40810,7 @@ domain_suffix_set:
 - huawei.asia
 - huawei.eu
 - huawei.ru
+- huaweicloud-idme.com
 - huaweicloudsite.com
 - huaweicloudwaf.com
 - huaweidevice.com
@@ -41463,6 +41463,7 @@ domain_suffix_set:
 - hwcrazy.com
 - hwehs.com
 - hweimall.com
+- hweventgrid.com
 - hwfcw.com
 - hwhidc.com
 - hwht.com
@@ -42501,6 +42502,7 @@ domain_suffix_set:
 - idongde.com
 - idongmai.com
 - idongniu.com
+- idonguapi.com
 - idooshu.com
 - idosend.com
 - idotools.com
@@ -43248,6 +43250,7 @@ domain_suffix_set:
 - in9ni.com
 - inabr.com
 - inad.com
+- inanguapi.com
 - inanrenbang.com
 - inbeing.net
 - inbilin.com
@@ -44261,6 +44264,7 @@ domain_suffix_set:
 - ixiaochengxu.cc
 - ixiatxt.com
 - ixiguan.com
+- ixiguapi.com
 - iximo.com
 - ixingfei.com
 - ixinglu.com
@@ -55303,6 +55307,7 @@ domain_suffix_set:
 - modashi.net
 - modb.cc
 - modb.pro
+- modelarts-infer.com
 - modelevel.com
 - modelwhale.com
 - modeng178.com
@@ -56195,6 +56200,9 @@ domain_suffix_set:
 - myhongzuan.com
 - myhostadmin.net
 - myhscodes.com
+- myhuaweicloud-custom.com
+- myhuaweicloud-koodrive.com
+- myhuaweicloud-obs.com
 - myhuaweicloud.com
 - myhuilv.com
 - myhwclouds.net
@@ -60178,7 +60186,6 @@ domain_suffix_set:
 - pinfangw.com
 - ping-jia.net
 - ping-qu.com
-- ping.ubnt.com
 - ping99.com
 - pingancdn.com
 - pinganfang.com
@@ -74647,6 +74654,7 @@ domain_suffix_set:
 - uwan.com
 - uweitui.com
 - uwenku.com
+- uwn.com
 - uworter.com
 - ux18.com
 - ux6.com

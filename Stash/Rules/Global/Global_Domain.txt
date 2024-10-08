@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30667
+# 规则统计: 30686
 
 adobeereg.com
 angle.com.tw
@@ -922,6 +922,7 @@ self.events.data.microsoft.com
 .aerospace-training-wales.ac.uk
 .aes.ac.uk
 .aesworkshops.com
+.af-north-1.myhuaweicloud.com
 .afao.ac.uk
 .afappyending.com
 .afewmomentswith.com
@@ -1431,6 +1432,7 @@ self.events.data.microsoft.com
 .amof.ac.uk
 .amourangels.com
 .amp.dev
+.amplifi.com
 .amplifyapp.com
 .amplifyframework.com
 .amplitude.com
@@ -5342,6 +5344,7 @@ self.events.data.microsoft.com
 .classics.ac.uk
 .classymomsex.com
 .claude.ai
+.claudeusercontent.com
 .clc-london.ac.uk
 .clco.cc
 .clean-cooling.ac.uk
@@ -7998,6 +8001,7 @@ self.events.data.microsoft.com
 .facebook.ca
 .facebook.cc
 .facebook.com
+.facebook.de
 .facebook.design
 .facebook.hu
 .facebook.in
@@ -8310,8 +8314,10 @@ self.events.data.microsoft.com
 .fastindianporn.com
 .fastlane.ci
 .fastlane.tools
+.fastly-edge.com
 .fastly-terrarium.com
 .fastly.com
+.fastly.io
 .fastlylabs.com
 .fastlylb.net
 .fasttext.cc
@@ -8990,6 +8996,7 @@ self.events.data.microsoft.com
 .frontier.ac.uk
 .frontiersin.org
 .frontiersofoncology.ac.uk
+.frontrow.com
 .froogle.com
 .frostbite.com
 .frprn.com
@@ -9457,6 +9464,7 @@ self.events.data.microsoft.com
 .github.io
 .githubapp.com
 .githubassets.com
+.githubcopilot.com
 .githubhackathon.com
 .githubnext.com
 .githubpreview.dev
@@ -11030,6 +11038,7 @@ self.events.data.microsoft.com
 .httpsfacebook.com
 .httpwwwfacebook.com
 .htvncdn.net
+.htx.com
 .htyj-bj.com
 .hu1u.com
 .huabansp.com
@@ -14242,7 +14251,6 @@ self.events.data.microsoft.com
 .messytube.com
 .met-nude.com
 .meta.ai
-.meta.com
 .metabolomics.ac.uk
 .metabora.io
 .metacloud.com
@@ -15128,6 +15136,7 @@ self.events.data.microsoft.com
 .mxmcdn.net
 .mxshm.site
 .my-enema.com
+.my-kualalumpur-1.myhuaweicloud.com
 .my-magazine.me
 .my13la.com
 .my1stflame.com
@@ -18848,6 +18857,7 @@ self.events.data.microsoft.com
 .rstatic.net
 .rt.com
 .rtings.com
+.ru-moscow-1.myhuaweicloud.com
 .rua-project.ac.uk
 .ruby-lang.org
 .rubygems.org
@@ -19726,6 +19736,7 @@ self.events.data.microsoft.com
 .signal.art
 .signalbar.com
 .signalprocessingsociety.org
+.signalr.net
 .signalusers.org
 .sihe.ac.uk
 .sikh-uni.ac.uk
@@ -21825,6 +21836,7 @@ self.events.data.microsoft.com
 .ubisoft.com
 .ubisoftconnect.com
 .ubn.ac.uk
+.ubncloud.com
 .ubnw.net
 .ubuntu-touch.io
 .ubuntu.com
@@ -21907,7 +21919,9 @@ self.events.data.microsoft.com
 .uhsl.ac.uk
 .uhtube.me
 .uhub.com
+.ui.com
 .uiporn.com
+.uisp.com
 .ujapanesesex.com
 .ujizzcn.com
 .uk-cdi.ac.uk
@@ -22713,6 +22727,7 @@ self.events.data.microsoft.com
 .vk.design
 .vk.link
 .vk.me
+.vk.ru
 .vkcache.com
 .vkgo.app
 .vklive.app
@@ -23318,6 +23333,7 @@ self.events.data.microsoft.com
 .wifevideos.net
 .wifewantstoplay.com
 .wifi-mx.com
+.wifiman.com
 .wigan-leigh.ac.uk
 .wigs.ac.uk
 .wigstoncollege.ac.uk
@@ -24673,6 +24689,7 @@ self.events.data.microsoft.com
 .zencdn.net
 .zencoder.com
 .zendesk.com
+.zenlesszonezero.com
 .zenodo.org
 .zeplerinstitute.ac.uk
 .zeplin.dev
@@ -27878,6 +27895,7 @@ self.events.data.microsoft.com
 .meshrep.com
 .mesotw.com
 .messenger.com
+.meta.com
 .metacafe.com
 .metafilter.com
 .metart.com
@@ -29735,6 +29753,7 @@ self.events.data.microsoft.com
 .torrentproject.se
 .torrenty.org
 .torrentz.eu
+.tortoisesvn.net
 .torvpn.com
 .totalvpn.com
 .toutiaoabc.com
