@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_Resolve
-# 规则统计: 258
+# 规则统计: 261
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -12,7 +12,6 @@ DOMAIN,bt.rer.lol
 DOMAIN,bt1.archive.org
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
-DOMAIN,canardscitrons.nohost.me
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
@@ -36,26 +35,30 @@ DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
+DOMAIN,open.u-p.pw
 DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
+DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,run.publictracker.xyz
+DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,tk2.trackerservers.com
+DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
+DOMAIN,torrenttracker.nwc.acsalaska.net
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
@@ -104,7 +107,6 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -124,6 +126,7 @@ DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
+DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
