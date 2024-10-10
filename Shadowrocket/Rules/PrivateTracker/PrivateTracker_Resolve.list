@@ -1,9 +1,10 @@
 # 规则名称: PrivateTracker_Resolve
-# 规则统计: 261
+# 规则统计: 262
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
 DOMAIN,aegir.sexy
+DOMAIN,api.clasificadosrapidos.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
@@ -36,14 +37,12 @@ DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
 DOMAIN,open.u-p.pw
-DOMAIN,open.xxtor.com
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,pybittrack.retiolus.net
-DOMAIN,region.nl1.privex.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.x2k.ru
@@ -51,19 +50,19 @@ DOMAIN,retracker01-msk-virt.corbina.net
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
+DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,tk2.trackerservers.com
-DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
-DOMAIN,torrenttracker.nwc.acsalaska.net
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
 DOMAIN,tr2.trkb.ru
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -94,6 +93,7 @@ DOMAIN,tracker.ipfsscan.io
 DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.itscraftsoftware.my.id
 DOMAIN,tracker.jamesthebard.net
+DOMAIN,tracker.kmzs123.cf
 DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.mywaifu.best
@@ -107,6 +107,7 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
