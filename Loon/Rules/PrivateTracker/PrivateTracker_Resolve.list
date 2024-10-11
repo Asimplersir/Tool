@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_Resolve
-# 规则统计: 262
+# 规则统计: 258
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -10,8 +10,6 @@ DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
 DOMAIN,bt.okmp3.ru
 DOMAIN,bt.rer.lol
-DOMAIN,bt1.archive.org
-DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,ch3oh.ru
 DOMAIN,concen.org
@@ -36,7 +34,6 @@ DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.ink
-DOMAIN,open.u-p.pw
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
@@ -62,7 +59,6 @@ DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
 DOMAIN,tr2.trkb.ru
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
