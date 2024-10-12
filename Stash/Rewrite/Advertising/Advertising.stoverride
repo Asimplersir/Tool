@@ -1,8 +1,8 @@
 # 规则名称: Advertising.stoverride
-# 规则统计: 1418
+# 规则统计: 1419
 
 name: 复写去广告
-desc: 最后更新时间 2024-10-05 02:15:55
+desc: 最后更新时间 2024-10-13 02:16:06
 http:
   rewrite:
     - ^http:\/\/.*aastocks\.com\/ad\/ - reject
@@ -1225,6 +1225,7 @@ http:
     - "msspjh.emarbox.com"
     - "mxsa.mxbc.net"
     - "mystore-gw.watsonsvip.com.cn"
+    - "napi.ithome.com"
     - "new-app-api.ylyk.com"
     - "new.vip.weibo.cn"
     - "newapp2.szsmk.com"
