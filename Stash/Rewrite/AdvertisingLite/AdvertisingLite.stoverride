@@ -1,8 +1,8 @@
 # 规则名称: AdvertisingLite.stoverride
-# 规则统计: 2030
+# 规则统计: 2034
 
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-10-05 02:16:19
+desc: 最后更新时间 2024-10-14 02:15:46
 http:
   rewrite:
     - ^http:\/\/apicloud\.zol\.com\.cn\/Article\/WapLaunchLogo - reject
@@ -221,6 +221,9 @@ http:
     - ^https?:\/\/api\.17kjs\.com\/meta\/ads_targets - reject
     - ^https?:\/\/api\.21ec74\.com\/v2\.5\/ad - reject
     - ^https?:\/\/api\.21jingji\.com\/ad\/ - reject
+    - ^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject
+    - ^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject
+    - ^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject
     - ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
     - ^https?:\/\/api\.ahmobile\.cn:443\/eip\?eip_serv_id=app\.getAllNew - reject
     - ^https?:\/\/api\.applovefrom\.com\/api\/v\d\/splash\/ - reject
@@ -1256,6 +1259,7 @@ http:
     - "api.17kjs.com"
     - "api.21ec74.com"
     - "api.21jingji.com"
+    - "api.51credit.com"
     - "api.abema.io"
     - "api.ahmobile.cn"
     - "api.alipan.com"
