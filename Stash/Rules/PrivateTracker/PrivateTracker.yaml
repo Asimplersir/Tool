@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 258
+# 规则统计: 260
 
 payload:
   - DOMAIN,1337.abcvg.info
@@ -12,6 +12,7 @@ payload:
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.rer.lol
   - DOMAIN,bvarf.tracker.sh
+  - DOMAIN,canardscitrons.nohost.me
   - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
@@ -50,6 +51,7 @@ payload:
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
   - DOMAIN,sparkle.ghostchu-services.top
+  - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrents.artixlinux.org
@@ -59,7 +61,6 @@ payload:
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr1.aag.moe
   - DOMAIN,tr2.trkb.ru
-  - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -103,6 +104,7 @@ payload:
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tamersunion.org
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com

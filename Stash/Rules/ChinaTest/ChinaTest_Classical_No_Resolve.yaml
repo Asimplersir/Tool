@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Classical_No_Resolve
-# 规则统计: 90638
+# 规则统计: 90639
 
 payload:
   - DOMAIN,analytics.strava.com
@@ -19535,6 +19535,7 @@ payload:
   - DOMAIN-SUFFIX,centrostuditaliani.com
   - DOMAIN-SUFFIX,century21cn.com
   - DOMAIN-SUFFIX,centurycreation.com
+  - DOMAIN-SUFFIX,centuryenglish.com
   - DOMAIN-SUFFIX,centurytrip.com
   - DOMAIN-SUFFIX,cenvan.net
   - DOMAIN-SUFFIX,cenvandns.com

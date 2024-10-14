@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Domain
-# 规则统计: 90613
+# 规则统计: 90614
 
 analytics.strava.com
 blzddist1-a.akamaihd.net
@@ -19534,6 +19534,7 @@ xn--flw351e.com
 .centrostuditaliani.com
 .century21cn.com
 .centurycreation.com
+.centuryenglish.com
 .centurytrip.com
 .cenvan.net
 .cenvandns.com

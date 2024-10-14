@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_All_No_Resolve
-# 规则统计: 90668
+# 规则统计: 90669
 
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -19534,6 +19534,7 @@ DOMAIN-SUFFIX,centrmus.com
 DOMAIN-SUFFIX,centrostuditaliani.com
 DOMAIN-SUFFIX,century21cn.com
 DOMAIN-SUFFIX,centurycreation.com
+DOMAIN-SUFFIX,centuryenglish.com
 DOMAIN-SUFFIX,centurytrip.com
 DOMAIN-SUFFIX,cenvan.net
 DOMAIN-SUFFIX,cenvandns.com

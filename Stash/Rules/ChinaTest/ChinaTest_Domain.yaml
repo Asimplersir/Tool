@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Domain
-# 规则统计: 90614
+# 规则统计: 90615
 
 payload:
   - 'analytics.strava.com'
@@ -19535,6 +19535,7 @@ payload:
   - '+.centrostuditaliani.com'
   - '+.century21cn.com'
   - '+.centurycreation.com'
+  - '+.centuryenglish.com'
   - '+.centurytrip.com'
   - '+.cenvan.net'
   - '+.cenvandns.com'

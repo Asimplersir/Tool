@@ -1467,7 +1467,6 @@ p-events-delivery.akamaized.net
 +.wwwipodlounge.com
 +.wwwmacbookair.com
 +.apple.comscoreresearch.com
-+.apple.news
 +.appleenews.com
 +.applemusic.berlin
 +.applemusic.co
@@ -1505,8 +1504,8 @@ p-events-delivery.akamaized.net
 +.musickit.net
 +.wwwapplemusic.com
 +.apple-dns.net
++.apple.news
 +.appsto.re
-+.cdn-apple.com
 +.digicert.com
 +.apple-cloudkit.com
 +.apple-icloud.cn
@@ -1514,6 +1513,7 @@ p-events-delivery.akamaized.net
 +.appleicloud.cn
 +.applemx-icloud.com
 +.apzones.com
++.cdn-apple.com
 +.icloud-apple.cn
 +.icloud-content.com
 +.icloud-isupport.com
