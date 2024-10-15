@@ -19,6 +19,7 @@ IP-CIDR6, 2402:4e00:1200:ed00:0:9089:6dac:96b6/128, REJECT, no-resolve
 ^https:\/\/api\.zhihu\.com\/(moments\/lastread|drama\/hot-drama-list) reject-dict
 ^https:\/\/api\.zhihu\.com\/root\/window reject-dict
 ^https:\/\/api\.zhihu\.com\/(bazaar\/float_window|market\/popovers_v2) reject-dict
+^https:\/\/api\.zhihu\.com\/bazaar\/vip_tab\/header\? response-body-json-del activity_banner activity_window vip_tip
 ^https:\/\/api\.zhihu\.com\/me\/guides reject-dict
 ^https:\/\/api\.zhihu\.com\/unlimited\/go\/my_card reject
 ^https:\/\/api\.zhihu\.com\/search\/(hot_search|preset_words) reject-dict
@@ -44,7 +45,6 @@ http-response ^https:\/\/api\.zhihu\.com\/(moments_v3|topstory\/hot-lists\/total
 http-response ^https:\/\/api\.zhihu\.com\/v2\/topstory\/hot-lists\/everyone-seeing\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 移除首页推广
 http-response ^https:\/\/api\.zhihu\.com\/root\/tab script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 精简顶部标签
 http-response ^https:\/\/(api|page-info)\.zhihu\.com\/(answers|articles)\/v2\/\d+ script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 移除首页推广
-http-response ^https:\/\/api\.zhihu\.com\/bazaar\/vip_tab\/header\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 移除会员页面推广
 http-response ^https:\/\/api\.zhihu\.com\/search\/recommend_query\/v2\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/CommonScript/replace-body.js, requires-body = true, argument = ""recommend_queries":\{.+\}->"recommend_queries":{}", tag = 移除搜索页关键词
 http-response ^https:\/\/api\.zhihu\.com\/next-(bff|data|render)\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 移除回答详情页推广
 http-response ^https:\/\/api\.zhihu\.com\/questions\/\d+(\/answers|\/feeds|\?include=) script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/Zhihu/Zhihu_remove_ads.js, requires-body = true, tag = 移除回答详情页推广

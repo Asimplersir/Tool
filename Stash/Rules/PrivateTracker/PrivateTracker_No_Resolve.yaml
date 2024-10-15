@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 260
+# 规则统计: 261
 
 payload:
   - DOMAIN,1337.abcvg.info
@@ -28,6 +28,7 @@ payload:
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,moonburrow.club
   - DOMAIN,new-line.net
+  - DOMAIN,ns1.monolithindustries.com
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,odd-hd.fr
   - DOMAIN,open.acgtracker.com
@@ -39,10 +40,10 @@ payload:
   - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.io
+  - DOMAIN,p2p.azu.red
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.tracker.vraphim.com
-  - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.x2k.ru
@@ -54,6 +55,7 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
+  - DOMAIN,tk2v6.trackerservers.com
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abir.ga
@@ -61,6 +63,7 @@ payload:
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr1.aag.moe
   - DOMAIN,tr2.trkb.ru
+  - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -104,10 +107,8 @@ payload:
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.tamersunion.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.vds.nz

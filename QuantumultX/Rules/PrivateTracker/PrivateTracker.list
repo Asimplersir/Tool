@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 259
+# 规则统计: 260
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -27,6 +27,7 @@ HOST,leet-tracker.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,moonburrow.club,PrivateTracker
 HOST,new-line.net,PrivateTracker
+HOST,ns1.monolithindustries.com,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,odd-hd.fr,PrivateTracker
 HOST,open.acgtracker.com,PrivateTracker
@@ -38,10 +39,10 @@ HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
+HOST,p2p.azu.red,PrivateTracker
 HOST,p2p.publictracker.xyz,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
 HOST,public.tracker.vraphim.com,PrivateTracker
-HOST,pybittrack.retiolus.net,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
 HOST,retracker.x2k.ru,PrivateTracker
@@ -53,6 +54,7 @@ HOST,sparkle.ghostchu-services.top,PrivateTracker
 HOST,t.overflow.biz,PrivateTracker
 HOST,taciturn-shadow.spb.ru,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
+HOST,tk2v6.trackerservers.com,PrivateTracker
 HOST,torrents.artixlinux.org,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
 HOST,tr.abir.ga,PrivateTracker
@@ -60,6 +62,7 @@ HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr1.aag.moe,PrivateTracker
 HOST,tr2.trkb.ru,PrivateTracker
+HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
@@ -103,10 +106,8 @@ HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.tamersunion.org,PrivateTracker
-HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
-HOST,tracker.torrust-demo.com,PrivateTracker
 HOST,tracker.tryhackx.org,PrivateTracker
 HOST,tracker.uraniumhexafluori.de,PrivateTracker
 HOST,tracker.vds.nz,PrivateTracker

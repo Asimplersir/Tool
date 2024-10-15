@@ -10,11 +10,13 @@ AND, ((PROTOCOL, QUIC), (DOMAIN-SUFFIX, xiaohongshu.com)), REJECT
 ^https:\/\/www\.xiaohongshu\.com\/api\/marketing\/box\/trigger\? reject-dict
 ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/note\/guide\? reject-dict
 ^https:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d+\/(ads\/resource|hey\/\w+\/hey_gallery) reject-dict
+^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v1\/search\/banner_list$ response-body-json-replace data {}
+^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v1\/search\/hot_list$ response-body-json-replace data.items []
+^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v4\/search\/hint response-body-json-replace data.hint_words []
+^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v4\/search\/trending\? response-body-json-replace data.queries [] data.hint_word {}
 
 [Script]
 http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/(note\/widgets|user\/followings\/followfeed) script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除详情页小部件
-http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/search\/(banner|hot)_list script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除搜索页广告
-http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/search\/(hint|trending)\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除搜索页广告
 http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/search\/notes\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除搜索页广告
 http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/system_service\/config\? script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除开屏广告
 http-response ^https:\/\/edith\.xiaohongshu\.com\/api\/sns\/v\d+\/system_service\/splash_config script-path = https://raw.githubusercontent.com/Auniquesir/Tool/X/Loon/Script/RedPaper/RedPaper_remove_ads.js, requires-body = true, tag = 移除开屏广告
