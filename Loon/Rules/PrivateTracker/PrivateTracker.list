@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 260
+# 规则统计: 258
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -43,13 +43,16 @@ DOMAIN,p2p.azu.red
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
 DOMAIN,public.tracker.vraphim.com
+DOMAIN,pybittrack.retiolus.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
+DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
+DOMAIN,smurfsoft.com
 DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
@@ -61,8 +64,6 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
-DOMAIN,tr2.trkb.ru
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -72,7 +73,6 @@ DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.ccp.ovh
-DOMAIN,tracker.cloaka.xyz
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
@@ -106,11 +106,10 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
+DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker.uraniumhexafluori.de
-DOMAIN,tracker.vds.nz
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,tracker1.520.jp
@@ -125,7 +124,6 @@ DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
-DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
