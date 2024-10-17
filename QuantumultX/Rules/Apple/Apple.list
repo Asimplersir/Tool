@@ -1764,6 +1764,7 @@ HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appsto.re,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
 HOST-SUFFIX,apple-icloud.cn,Apple
@@ -1771,7 +1772,6 @@ HOST-SUFFIX,apple-livephotoskit.com,Apple
 HOST-SUFFIX,appleicloud.cn,Apple
 HOST-SUFFIX,applemx-icloud.com,Apple
 HOST-SUFFIX,apzones.com,Apple
-HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,icloud-apple.cn,Apple
 HOST-SUFFIX,icloud-content.com,Apple
 HOST-SUFFIX,icloud-isupport.com,Apple

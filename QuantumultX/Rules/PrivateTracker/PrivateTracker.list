@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 258
+# 规则统计: 259
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -26,7 +26,6 @@ HOST,jutone.com,PrivateTracker
 HOST,leet-tracker.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,moonburrow.club,PrivateTracker
-HOST,new-line.net,PrivateTracker
 HOST,ns1.monolithindustries.com,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,odd-hd.fr,PrivateTracker
@@ -37,6 +36,7 @@ HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
+HOST,open.u-p.pw,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p2p.azu.red,PrivateTracker
@@ -64,6 +64,7 @@ HOST,tr.abir.ga,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr1.aag.moe,PrivateTracker
+HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
@@ -72,11 +73,9 @@ HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.breizh.pm,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
-HOST,tracker.ccp.ovh,PrivateTracker
 HOST,tracker.cloudit.top,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.darkness.services,PrivateTracker
-HOST,tracker.ddunlimited.net,PrivateTracker
 HOST,tracker.deadorbit.nl,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
@@ -124,10 +123,12 @@ HOST,trackers.mlsub.net,PrivateTracker
 HOST,ttk2.nbaonlineservice.com,PrivateTracker
 HOST,u4.trakx.crim.ist,PrivateTracker
 HOST,u6.trakx.crim.ist,PrivateTracker
+HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
 HOST,www.peckservers.com,PrivateTracker
 HOST,www.torrent.eu.org,PrivateTracker
 HOST,www.wareztorrent.com,PrivateTracker
+HOST,yahor.of.by,PrivateTracker
 HOST,z.mercax.com,PrivateTracker
 HOST-SUFFIX,1ptba.com,PrivateTracker
 HOST-SUFFIX,2xfree.org,PrivateTracker

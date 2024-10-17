@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 258
+# 规则统计: 259
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -26,7 +26,6 @@ DOMAIN,jutone.com
 DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,moonburrow.club
-DOMAIN,new-line.net
 DOMAIN,ns1.monolithindustries.com
 DOMAIN,nyaa.tracker.wf
 DOMAIN,odd-hd.fr
@@ -37,6 +36,7 @@ DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
 DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
+DOMAIN,open.u-p.pw
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.azu.red
@@ -64,6 +64,7 @@ DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -72,11 +73,9 @@ DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.bt4g.com
-DOMAIN,tracker.ccp.ovh
 DOMAIN,tracker.cloudit.top
 DOMAIN,tracker.cyberia.is
 DOMAIN,tracker.darkness.services
-DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
@@ -124,10 +123,12 @@ DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
+DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.wareztorrent.com
+DOMAIN,yahor.of.by
 DOMAIN,z.mercax.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
