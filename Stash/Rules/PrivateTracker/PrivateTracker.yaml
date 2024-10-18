@@ -1,10 +1,11 @@
 # 规则名称: PrivateTracker
-# 规则统计: 260
+# 规则统计: 262
 
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,1c.premierzal.ru
   - DOMAIN,aegir.sexy
+  - DOMAIN,amigacity.xyz
   - DOMAIN,api.clasificadosrapidos.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -20,6 +21,7 @@ payload:
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
+  - DOMAIN,free.publictracker.xyz
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,isk.richardsw.club
@@ -47,7 +49,6 @@ payload:
   - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
-  - DOMAIN,retracker.x2k.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
   - DOMAIN,run.publictracker.xyz
   - DOMAIN,ryjer.com
@@ -58,7 +59,6 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
-  - DOMAIN,tk2v6.trackerservers.com
   - DOMAIN,torrents.artixlinux.org
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abir.ga
@@ -74,9 +74,11 @@ payload:
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
+  - DOMAIN,tracker.ccp.ovh
   - DOMAIN,tracker.cloudit.top
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
+  - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.deadorbit.nl
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -111,6 +113,7 @@ payload:
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.waaa.moe
+  - DOMAIN,tracker.xor.st
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.bt.moack.co.kr
@@ -124,7 +127,6 @@ payload:
   - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
-  - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.peckservers.com
   - DOMAIN,www.torrent.eu.org

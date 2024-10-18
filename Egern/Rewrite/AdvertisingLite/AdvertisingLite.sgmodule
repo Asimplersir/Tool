@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite.sgmodule
-# 规则统计: 1169
+# 规则统计: 1170
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
@@ -293,6 +293,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,intl.iqiyi.com,maicai.api.dd
 "^https?:\/\/api\.nj\.nbtv\.cn\/v2\/advertise\/advertise-r1\/get-list\?data=u8obKDIrIWt2NR9wBuMwQ5O61eEsP" - reject
 "^https?:\/\/api\.nj\.nbtv\.cn\/v\d\/common\/system-boot-inform\/detail" - reject
 "^https?:\/\/api\.petkit\.cn\/6\/\/device\/relatedProductsInfo" - reject
+"^https?:\/\/api\.pinduoduo\.com\/api\/aquarius\/hungary\/global\/homepage\?" - reject
 "^https?:\/\/api\.pinduoduo\.com\/api\/ktt_gateway\/activity\/feeds\/personal_home_page\/" - reject
 "^https?:\/\/api\.psy-1\.com\/cosleep\/startup" - reject
 "^https?:\/\/api\.qbb6\.com\/ad\/" - reject
