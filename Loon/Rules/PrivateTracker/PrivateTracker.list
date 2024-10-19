@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 261
+# 规则统计: 260
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -53,18 +53,17 @@ DOMAIN,run.publictracker.xyz
 DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
-DOMAIN,smurfsoft.com
 DOMAIN,sparkle.ghostchu-services.top
 DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
+DOMAIN,tk2v6.trackerservers.com
 DOMAIN,torrents.artixlinux.org
 DOMAIN,torrentsmd.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
-DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -107,7 +106,6 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.tryhackx.org
@@ -126,6 +124,7 @@ DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
+DOMAIN,wepzone.net
 DOMAIN,www.all4nothin.net
 DOMAIN,www.peckservers.com
 DOMAIN,www.torrent.eu.org
