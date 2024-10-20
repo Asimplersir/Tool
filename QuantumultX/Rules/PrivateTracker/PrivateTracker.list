@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 260
+# 规则统计: 261
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -20,7 +20,6 @@ HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
-HOST,free.publictracker.xyz,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv6.rer.lol,PrivateTracker
 HOST,isk.richardsw.club,PrivateTracker
@@ -38,7 +37,6 @@ HOST,open.free-tracker.ga,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.cl,PrivateTracker
 HOST,open.tracker.ink,PrivateTracker
-HOST,open.u-p.pw,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p2p.azu.red,PrivateTracker
@@ -68,6 +66,7 @@ HOST,trackarr.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
 HOST,tracker.0x7c0.com,PrivateTracker
+HOST,tracker.auctor.tv,PrivateTracker
 HOST,tracker.birkenwald.de,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.breizh.pm,PrivateTracker
@@ -106,8 +105,10 @@ HOST,tracker.skynetcloud.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.tamersunion.org,PrivateTracker
+HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
+HOST,tracker.torrust-demo.com,PrivateTracker
 HOST,tracker.tryhackx.org,PrivateTracker
 HOST,tracker.waaa.moe,PrivateTracker
 HOST,tracker.xor.st,PrivateTracker

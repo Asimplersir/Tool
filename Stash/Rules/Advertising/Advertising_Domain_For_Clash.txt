@@ -1,5 +1,5 @@
 # 规则名称: Advertising_Domain_For_Clash
-# 规则统计: 157404
+# 规则统计: 157434
 
 03.lzzncm.com
 04.lzzncm.com
@@ -16633,6 +16633,7 @@ play.kakao.com
 +.0eijh8996i.com
 +.0emm.com
 +.0emn.com
++.0er7pc8.xyz
 +.0f461325bf56c3e1b9.com
 +.0fb.co
 +.0fb.ltd
@@ -18452,6 +18453,7 @@ play.kakao.com
 +.6554.net
 +.656f1ba3.xyz
 +.657475b7-0095-478d-90d4-96ce440604f9.online
++.65894140.xyz
 +.658bbb.us
 +.6593167243.com
 +.6598kn9gpf.ru
@@ -23613,6 +23615,7 @@ play.kakao.com
 +.aesaul.com
 +.aeshopvn.com
 +.aestivator.com
++.aesxgy.xyz
 +.aetgjds.com
 +.aets22.com
 +.aets88.com
@@ -24457,6 +24460,7 @@ play.kakao.com
 +.aka.ms-ads.co
 +.akabo.ru
 +.akaiksots.com
++.akalibalboas.com
 +.akamaihd.site
 +.akamhd.com
 +.akanoo.com
@@ -27784,6 +27788,7 @@ play.kakao.com
 +.awvracajcsu.com
 +.awvvhicirfti.com
 +.awwagqorqpty.com
++.awwnaqax.com
 +.awwprjafmfjbvt.xyz
 +.awxgfiqifawg.com
 +.awytythbxujkz.com
@@ -31380,6 +31385,7 @@ play.kakao.com
 +.bovemtou.xyz
 +.bovhzz.xyz
 +.bovidsacate.com
++.bovytl.xyz
 +.bowed-common.pro
 +.bowedcounty.com
 +.boweddemand.com
@@ -34443,6 +34449,7 @@ play.kakao.com
 +.cheatoppressive.com
 +.chebecsunsack.com
 +.checaigu.net
++.checbox.cc
 +.chechawia.com
 +.chechla.cnixon.com
 +.check-iy-ver-172-3.site
@@ -34704,6 +34711,7 @@ play.kakao.com
 +.choaboox.com
 +.choachim.com
 +.choacmax.xyz
++.choafaidoonsoy.net
 +.choaglee.com
 +.choaglocma.net
 +.choagrie.com
@@ -44073,6 +44081,7 @@ play.kakao.com
 +.ebpex.space
 +.ebpu2.top
 +.ebqidwm.xyz
++.ebqptawxdxrrdsu.xyz
 +.ebqqiakyhsn.com
 +.ebsbqexdgb.xyz
 +.ebscb0l.xyz
@@ -44806,6 +44815,7 @@ play.kakao.com
 +.elfinsande.website
 +.elfnxscnmtao.com
 +.elgdkzio.com
++.elgnnpl-ukgs.global
 +.elgust.com
 +.elhdxexnra.xyz
 +.elianicben.com
@@ -45719,6 +45729,7 @@ play.kakao.com
 +.esandalargere.com
 +.esasaimpi.net
 +.esathyasesume.info
++.esauphultough.net
 +.esbeginnyweakel.org
 +.esbmzyady.com
 +.esbqetmmejjtksa.xyz
@@ -48158,6 +48169,7 @@ play.kakao.com
 +.firnebmike.live
 +.firon.xyz
 +.firrectly.top
++.firrycandour.com
 +.first-hufu.oss-cn-shanghai.aliyuncs.com
 +.first-id.fr
 +.first-pollution.pro
@@ -55541,6 +55553,7 @@ play.kakao.com
 +.hotsexmeet.ru
 +.hotsocials.com
 +.hotstretchdove.com
++.hottedholster.com
 +.hottercensorbeaker.com
 +.hotterenvisage.com
 +.hottesvideosapps.com
@@ -55801,6 +55814,7 @@ play.kakao.com
 +.htnote.info
 +.htnvpcs.xyz
 +.htobficta.com
++.htoetgk.icu
 +.htoptracker11072023.com
 +.htoycpsxljkqrp.com
 +.htpanel.com
@@ -57783,6 +57797,7 @@ play.kakao.com
 +.inheritedgravysuspected.com
 +.inheritedunstable.com
 +.inheritedwren.com
++.inheritknow.com
 +.inherlearibine.digital
 +.inhonedgean.com
 +.inhospitablebamboograduate.com
@@ -62525,6 +62540,7 @@ play.kakao.com
 +.kvtggg.top
 +.kvtgl4who.com
 +.kvtnnn.top
++.kvum-bpelzw.icu
 +.kvumadoxpipqq.com
 +.kvxxkbmby.com
 +.kvymlsb.com
@@ -63700,6 +63716,7 @@ play.kakao.com
 +.leqjnmmyqtb.com
 +.leranews.com
 +.lernodydenknow.info
++.leroaboy.net
 +.leroj.elitegol.tv
 +.leroonge.xyz
 +.leroymerln.fr
@@ -75389,6 +75406,7 @@ play.kakao.com
 +.oupe71eiun.com
 +.ouphoarg.com
 +.ouphouch.com
++.ouplc.icu
 +.oupushee.com
 +.oupusoma.net
 +.ouqyid.com
@@ -77936,6 +77954,7 @@ play.kakao.com
 +.pinionscdf.com
 +.pinitolshouldn.com
 +.pinkberrytube.com
++.pinklabel.com
 +.pinkleo.pro
 +.pinkpig2le8tt09.com
 +.pinkssmytrie.com
@@ -83854,6 +83873,7 @@ play.kakao.com
 +.reliablepollensuite.com
 +.reliantstacklaugh.com
 +.relicsheer.com
++.relicwippen.com
 +.reliefindividual.com
 +.reliefjawflank.com
 +.relievedgeoff.com
@@ -85752,6 +85772,7 @@ play.kakao.com
 +.rumandwaterv.info
 +.rumblyjouking.store
 +.rumimorigu.com
++.rumkhprg.com
 +.rumlesswithing.com
 +.rummagemason.com
 +.rummentaltheme.com
@@ -91080,6 +91101,7 @@ play.kakao.com
 +.spoiledpresence.com
 +.spoilmagicstandard.com
 +.spoilphysiqueteenagers.com
++.spokanchap.com
 +.spokesperson254.fun
 +.spoki-noki.net
 +.spolecznosci.net
@@ -91206,6 +91228,7 @@ play.kakao.com
 +.spritfrees.com
 +.spritzawapuhi.guru
 +.sprkl.io
++.sproatmonger.shop
 +.sprocket-ping.s3.amazonaws.com
 +.sproose.com
 +.sprout-ad.com
@@ -96117,6 +96140,7 @@ play.kakao.com
 +.tipphotographermeans.com
 +.tippola.com
 +.tiprd.xyz
++.tipreesigmate.com
 +.tipsembankment.com
 +.tipslyrev.com
 +.tipster.space
@@ -97776,7 +97800,6 @@ play.kakao.com
 +.traffic.hyteck.de
 +.traffic.name
 +.traffic.nvcms.net
-+.traffic.pinklabel.com
 +.traffic.ru
 +.traffic.spot.im
 +.traffic.styria.hr
@@ -98710,6 +98733,7 @@ play.kakao.com
 +.tufzdj.xyz
 +.tugarmyindistinct.com
 +.tuglikevertigo.com
++.tugraughilr.xyz
 +.tugust.com
 +.tuhipkz.xyz
 +.tuhwjkesxo.com
@@ -98800,6 +98824,7 @@ play.kakao.com
 +.turdgasm.com
 +.turdsarnatta.com
 +.turdwwakrh.com
++.turesdi.top
 +.tureukworektob.info
 +.turfedtaboret.com
 +.turfinggneiss.com
@@ -99432,6 +99457,7 @@ play.kakao.com
 +.ufewhistug.net
 +.ufgkypfhervr.com
 +.ufgmxknyz.com
++.ufiidvv.icu
 +.ufiledsit.com
 +.ufinkln.com
 +.ufiuhnyydllpaed.com
@@ -100924,6 +100950,7 @@ play.kakao.com
 +.uunak.cn
 +.uunfybw.cn
 +.uuoizbtl.xyz
++.uuresdt.top
 +.uurhhtymipx.com
 +.uusjaq.top
 +.uutytp.com
@@ -104306,6 +104333,7 @@ play.kakao.com
 +.wbjjkdofo.xyz
 +.wbk9sohp.jdpz.link
 +.wbkaqly.cn
++.wbkdsg.xyz
 +.wbkfklsl.com
 +.wbn.su
 +.wbnbocz.xyz
@@ -106437,6 +106465,7 @@ play.kakao.com
 +.wuepo.cn
 +.wuftoars.net
 +.wuge20230104.live
++.wugroansaghadry.com
 +.wuidtethhkcko.com
 +.wuidtl.com
 +.wuifbjdswsl.com
@@ -108953,6 +108982,7 @@ play.kakao.com
 +.ymeqladpycz.com
 +.ymetrica.com
 +.ymetrica1.com
++.ymewsu.xyz
 +.ymhpcaxfnvl.com
 +.ymhyw6.lol
 +.ymjfhg.com
